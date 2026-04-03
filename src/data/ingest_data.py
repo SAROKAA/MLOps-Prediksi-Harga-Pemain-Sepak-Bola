@@ -22,7 +22,7 @@ def fetch_all_football_data():
     print(f"Memulai Ingestion (Batch: {timestamp})...")
 
     while current_page <= total_pages:
-        query = {"league": "78", "season": "2024", "page": str(current_page)}
+        query = {"league": "39", "season": "2024", "page": str(current_page)}
         
         try:
             response = requests.get(url, headers=headers, params=query, timeout=15)
