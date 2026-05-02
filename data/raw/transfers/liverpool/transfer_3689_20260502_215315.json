@@ -1,0 +1,43 @@
+{
+    "team": "liverpool",
+    "player_id": "3689",
+    "data": {
+        "status": "success",
+        "pagination": {
+            "total_count": 3,
+            "page_size": 120,
+            "page_count": 1,
+            "current_page": 1
+        },
+        "errors": null,
+        "response": [
+            {
+                "transfer_id": 163863,
+                "player_id": 3689,
+                "in_team_id": 65,
+                "out_team_id": 67,
+                "date": "2018-01-01",
+                "type": "\u20ac 84.5M",
+                "update_date": "2025-07-29 11:43:28"
+            },
+            {
+                "transfer_id": 29160,
+                "player_id": 3689,
+                "in_team_id": 67,
+                "out_team_id": 465,
+                "date": "2015-09-01",
+                "type": "\u20ac 15M",
+                "update_date": "2025-07-29 11:43:28"
+            },
+            {
+                "transfer_id": 29161,
+                "player_id": 3689,
+                "in_team_id": 465,
+                "out_team_id": 186,
+                "date": "2013-07-01",
+                "type": "\u20ac 3M",
+                "update_date": "2025-07-29 11:43:28"
+            }
+        ]
+    }
+}

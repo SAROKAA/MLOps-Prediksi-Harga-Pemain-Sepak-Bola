@@ -1,0 +1,43 @@
+{
+    "team": "liverpool",
+    "player_id": "5797",
+    "data": {
+        "status": "success",
+        "pagination": {
+            "total_count": 3,
+            "page_size": 120,
+            "page_count": 1,
+            "current_page": 1
+        },
+        "errors": null,
+        "response": [
+            {
+                "transfer_id": 773632,
+                "player_id": 5797,
+                "in_team_id": 135,
+                "out_team_id": 65,
+                "date": "2025-07-30",
+                "type": "Transfer",
+                "update_date": "2026-04-27 00:52:22"
+            },
+            {
+                "transfer_id": 163854,
+                "player_id": 5797,
+                "in_team_id": 65,
+                "out_team_id": 191,
+                "date": "2022-01-30",
+                "type": "\u20ac 44.5M",
+                "update_date": "2025-07-29 11:43:11"
+            },
+            {
+                "transfer_id": 261134,
+                "player_id": 5797,
+                "in_team_id": 191,
+                "out_team_id": 10922,
+                "date": "2019-07-10",
+                "type": "\u20ac 8.5M",
+                "update_date": "2025-07-29 11:43:11"
+            }
+        ]
+    }
+}

@@ -1,0 +1,70 @@
+{
+    "team": "manchester_city",
+    "player_id": "12958",
+    "data": {
+        "status": "success",
+        "pagination": {
+            "total_count": 6,
+            "page_size": 120,
+            "page_count": 1,
+            "current_page": 1
+        },
+        "errors": null,
+        "response": [
+            {
+                "transfer_id": 1783840,
+                "player_id": 12958,
+                "in_team_id": 89,
+                "out_team_id": 70,
+                "date": "2026-02-01",
+                "type": "Loan",
+                "update_date": "2026-04-27 00:45:33"
+            },
+            {
+                "transfer_id": 169981,
+                "player_id": 12958,
+                "in_team_id": 70,
+                "out_team_id": 79,
+                "date": "2025-06-29",
+                "type": "Return from loan",
+                "update_date": "2026-02-02 00:17:25"
+            },
+            {
+                "transfer_id": 169979,
+                "player_id": 12958,
+                "in_team_id": 79,
+                "out_team_id": 70,
+                "date": "2024-08-16",
+                "type": "Loan",
+                "update_date": "2026-02-02 00:17:25"
+            },
+            {
+                "transfer_id": 168075,
+                "player_id": 12958,
+                "in_team_id": 70,
+                "out_team_id": 66,
+                "date": "2024-07-01",
+                "type": "N/A",
+                "update_date": "2026-04-27 00:45:33"
+            },
+            {
+                "transfer_id": 168076,
+                "player_id": 12958,
+                "in_team_id": 66,
+                "out_team_id": 70,
+                "date": "2024-01-26",
+                "type": "Loan",
+                "update_date": "2026-04-27 00:45:33"
+            },
+            {
+                "transfer_id": 169980,
+                "player_id": 12958,
+                "in_team_id": 70,
+                "out_team_id": 91,
+                "date": "2022-07-04",
+                "type": "N/A",
+                "update_date": "2025-07-29 11:42:52"
+            }
+        ]
+    }
+}

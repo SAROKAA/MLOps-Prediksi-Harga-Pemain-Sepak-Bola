@@ -1,0 +1,79 @@
+{
+    "team": "liverpool",
+    "player_id": "20225",
+    "data": {
+        "status": "success",
+        "pagination": {
+            "total_count": 7,
+            "page_size": 120,
+            "page_count": 1,
+            "current_page": 1
+        },
+        "errors": null,
+        "response": [
+            {
+                "transfer_id": 1607995,
+                "player_id": 20225,
+                "in_team_id": 65,
+                "out_team_id": 72,
+                "date": "2026-01-03",
+                "type": "Return from loan",
+                "update_date": "2026-04-27 00:42:54"
+            },
+            {
+                "transfer_id": 1190924,
+                "player_id": 20225,
+                "in_team_id": 72,
+                "out_team_id": 65,
+                "date": "2025-07-24",
+                "type": "Loan",
+                "update_date": "2026-04-27 00:42:54"
+            },
+            {
+                "transfer_id": 186013,
+                "player_id": 20225,
+                "in_team_id": 4520,
+                "out_team_id": 80,
+                "date": "2025-07-01",
+                "type": "Back from Loan",
+                "update_date": "2025-11-17 02:09:50"
+            },
+            {
+                "transfer_id": 186012,
+                "player_id": 20225,
+                "in_team_id": 80,
+                "out_team_id": 4520,
+                "date": "2024-08-28",
+                "type": "Loan",
+                "update_date": "2025-11-17 02:09:50"
+            },
+            {
+                "transfer_id": 32168,
+                "player_id": 20225,
+                "in_team_id": 4520,
+                "out_team_id": 714,
+                "date": "2024-01-01",
+                "type": "N/A",
+                "update_date": "2025-07-29 09:42:31"
+            },
+            {
+                "transfer_id": 267420,
+                "player_id": 20225,
+                "in_team_id": 14024,
+                "out_team_id": 212,
+                "date": "2022-08-30",
+                "type": "N/A",
+                "update_date": "2025-07-29 09:42:31"
+            },
+            {
+                "transfer_id": 163896,
+                "player_id": 20225,
+                "in_team_id": 212,
+                "out_team_id": 65,
+                "date": "2022-07-11",
+                "type": "Loan",
+                "update_date": "2025-07-29 09:42:31"
+            }
+        ]
+    }
+}

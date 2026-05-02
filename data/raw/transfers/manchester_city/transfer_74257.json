@@ -1,0 +1,25 @@
+{
+    "team": "manchester_city",
+    "player_id": "74257",
+    "data": {
+        "status": "success",
+        "pagination": {
+            "total_count": 1,
+            "page_size": 120,
+            "page_count": 1,
+            "current_page": 1
+        },
+        "errors": null,
+        "response": [
+            {
+                "transfer_id": 1766906,
+                "player_id": 74257,
+                "in_team_id": 61,
+                "out_team_id": 70,
+                "date": "2026-01-29",
+                "type": "Loan",
+                "update_date": "2026-04-27 00:47:17"
+            }
+        ]
+    }
+}

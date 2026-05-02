@@ -1,0 +1,15 @@
+{
+    "team": "manchester_city",
+    "player_id": "28487",
+    "data": {
+        "status": "success",
+        "pagination": {
+            "total_count": 0,
+            "page_size": 120,
+            "page_count": 0,
+            "current_page": 1
+        },
+        "errors": null,
+        "response": []
+    }
+}

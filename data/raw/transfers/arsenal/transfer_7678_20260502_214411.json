@@ -1,0 +1,25 @@
+{
+    "team": "Arsenal",
+    "player_id": "7678",
+    "data": {
+        "status": "success",
+        "pagination": {
+            "total_count": 1,
+            "page_size": 120,
+            "page_count": 1,
+            "current_page": 1
+        },
+        "errors": null,
+        "response": [
+            {
+                "transfer_id": 165108,
+                "player_id": 7678,
+                "in_team_id": 69,
+                "out_team_id": 66,
+                "date": "2023-07-15",
+                "type": "\u20ac 116.6M",
+                "update_date": "2025-07-29 11:46:05"
+            }
+        ]
+    }
+}

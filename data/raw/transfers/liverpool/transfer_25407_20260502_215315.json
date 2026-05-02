@@ -1,0 +1,52 @@
+{
+    "team": "liverpool",
+    "player_id": "25407",
+    "data": {
+        "status": "success",
+        "pagination": {
+            "total_count": 4,
+            "page_size": 120,
+            "page_count": 1,
+            "current_page": 1
+        },
+        "errors": null,
+        "response": [
+            {
+                "transfer_id": 1767245,
+                "player_id": 25407,
+                "in_team_id": 65,
+                "out_team_id": 1073,
+                "date": "2026-02-01",
+                "type": "Return from loan",
+                "update_date": "2026-04-27 00:42:54"
+            },
+            {
+                "transfer_id": 590837,
+                "player_id": 25407,
+                "in_team_id": 1073,
+                "out_team_id": 65,
+                "date": "2025-06-30",
+                "type": "Loan",
+                "update_date": "2026-04-27 00:42:54"
+            },
+            {
+                "transfer_id": 163865,
+                "player_id": 25407,
+                "in_team_id": 65,
+                "out_team_id": 1075,
+                "date": "2024-07-01",
+                "type": "N/A",
+                "update_date": "2025-06-02 06:25:29"
+            },
+            {
+                "transfer_id": 163866,
+                "player_id": 25407,
+                "in_team_id": 1075,
+                "out_team_id": 65,
+                "date": "2023-07-01",
+                "type": "Loan",
+                "update_date": "2025-06-02 06:25:29"
+            }
+        ]
+    }
+}

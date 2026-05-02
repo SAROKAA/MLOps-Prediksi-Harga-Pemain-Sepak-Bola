@@ -1,0 +1,34 @@
+{
+    "team": "liverpool",
+    "player_id": "13201",
+    "data": {
+        "status": "success",
+        "pagination": {
+            "total_count": 2,
+            "page_size": 120,
+            "page_count": 1,
+            "current_page": 1
+        },
+        "errors": null,
+        "response": [
+            {
+                "transfer_id": 216054,
+                "player_id": 13201,
+                "in_team_id": 4520,
+                "out_team_id": 86,
+                "date": "2023-07-01",
+                "type": "N/A",
+                "update_date": "2025-07-29 11:43:28"
+            },
+            {
+                "transfer_id": 163859,
+                "player_id": 13201,
+                "in_team_id": 86,
+                "out_team_id": 65,
+                "date": "2022-07-01",
+                "type": "Loan",
+                "update_date": "2025-07-29 11:43:28"
+            }
+        ]
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "team": "Arsenal",
+    "player_id": "13067",
+    "data": {
+        "status": "success",
+        "pagination": {
+            "total_count": 8,
+            "page_size": 120,
+            "page_count": 1,
+            "current_page": 1
+        },
+        "errors": null,
+        "response": [
+            {
+                "transfer_id": 590848,
+                "player_id": 13067,
+                "in_team_id": 398,
+                "out_team_id": 69,
+                "date": "2025-07-01",
+                "type": "Transfer",
+                "update_date": "2026-04-27 01:01:38"
+            },
+            {
+                "transfer_id": 165021,
+                "player_id": 13067,
+                "in_team_id": 69,
+                "out_team_id": 398,
+                "date": "2025-06-29",
+                "type": "Return from loan",
+                "update_date": "2026-04-27 01:01:38"
+            },
+            {
+                "transfer_id": 165017,
+                "player_id": 13067,
+                "in_team_id": 398,
+                "out_team_id": 69,
+                "date": "2024-07-15",
+                "type": "Loan",
+                "update_date": "2026-04-27 01:01:38"
+            },
+            {
+                "transfer_id": 165018,
+                "player_id": 13067,
+                "in_team_id": 69,
+                "out_team_id": 78,
+                "date": "2024-07-01",
+                "type": "N/A",
+                "update_date": "2025-07-29 10:59:47"
+            },
+            {
+                "transfer_id": 165019,
+                "player_id": 13067,
+                "in_team_id": 78,
+                "out_team_id": 69,
+                "date": "2023-09-01",
+                "type": "Loan",
+                "update_date": "2025-07-29 10:59:47"
+            },
+            {
+                "transfer_id": 76368,
+                "player_id": 13067,
+                "in_team_id": 69,
+                "out_team_id": 113,
+                "date": "2023-07-01",
+                "type": "N/A",
+                "update_date": "2026-04-27 01:01:38"
+            },
+            {
+                "transfer_id": 76369,
+                "player_id": 13067,
+                "in_team_id": 113,
+                "out_team_id": 69,
+                "date": "2022-07-30",
+                "type": "Loan",
+                "update_date": "2026-04-27 01:01:38"
+            },
+            {
+                "transfer_id": 165020,
+                "player_id": 13067,
+                "in_team_id": 69,
+                "out_team_id": 189,
+                "date": "2021-07-10",
+                "type": "\u20ac 8M",
+                "update_date": "2025-07-29 10:59:47"
+            }
+        ]
+    }
+}

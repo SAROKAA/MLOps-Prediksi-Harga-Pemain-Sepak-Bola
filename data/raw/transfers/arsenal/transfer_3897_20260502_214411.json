@@ -1,0 +1,79 @@
+{
+    "team": "Arsenal",
+    "player_id": "3897",
+    "data": {
+        "status": "success",
+        "pagination": {
+            "total_count": 7,
+            "page_size": 120,
+            "page_count": 1,
+            "current_page": 1
+        },
+        "errors": null,
+        "response": [
+            {
+                "transfer_id": 165104,
+                "player_id": 3897,
+                "in_team_id": 69,
+                "out_team_id": 62,
+                "date": "2023-01-20",
+                "type": "\u20ac 24M",
+                "update_date": "2025-07-29 11:45:41"
+            },
+            {
+                "transfer_id": 51865,
+                "player_id": 3897,
+                "in_team_id": 62,
+                "out_team_id": 545,
+                "date": "2019-06-26",
+                "type": "\u20ac 20M",
+                "update_date": "2025-07-29 11:45:41"
+            },
+            {
+                "transfer_id": 45598,
+                "player_id": 3897,
+                "in_team_id": 545,
+                "out_team_id": 1101,
+                "date": "2016-07-01",
+                "type": "N/A",
+                "update_date": "2025-07-29 11:45:41"
+            },
+            {
+                "transfer_id": 45599,
+                "player_id": 3897,
+                "in_team_id": 1101,
+                "out_team_id": 545,
+                "date": "2015-07-06",
+                "type": "Loan",
+                "update_date": "2025-07-29 11:45:41"
+            },
+            {
+                "transfer_id": 51866,
+                "player_id": 3897,
+                "in_team_id": 1103,
+                "out_team_id": 545,
+                "date": "2014-07-01",
+                "type": "Loan",
+                "update_date": "2025-07-29 11:45:41"
+            },
+            {
+                "transfer_id": 46061,
+                "player_id": 3897,
+                "in_team_id": 618,
+                "out_team_id": 545,
+                "date": "2013-07-01",
+                "type": "Loan",
+                "update_date": "2025-07-29 11:45:41"
+            },
+            {
+                "transfer_id": 51867,
+                "player_id": 3897,
+                "in_team_id": 1103,
+                "out_team_id": 545,
+                "date": "2013-01-24",
+                "type": "Loan",
+                "update_date": "2025-07-29 11:45:41"
+            }
+        ]
+    }
+}

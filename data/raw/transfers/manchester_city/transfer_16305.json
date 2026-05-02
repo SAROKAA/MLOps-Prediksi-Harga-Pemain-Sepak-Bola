@@ -1,0 +1,52 @@
+{
+    "team": "manchester_city",
+    "player_id": "16305",
+    "data": {
+        "status": "success",
+        "pagination": {
+            "total_count": 4,
+            "page_size": 120,
+            "page_count": 1,
+            "current_page": 1
+        },
+        "errors": null,
+        "response": [
+            {
+                "transfer_id": 983187,
+                "player_id": 16305,
+                "in_team_id": 595,
+                "out_team_id": 70,
+                "date": "2025-09-02",
+                "type": "Transfer",
+                "update_date": "2026-04-27 01:38:04"
+            },
+            {
+                "transfer_id": 169854,
+                "player_id": 16305,
+                "in_team_id": 70,
+                "out_team_id": 189,
+                "date": "2017-07-01",
+                "type": "\u20ac 40M",
+                "update_date": "2025-07-29 11:43:05"
+            },
+            {
+                "transfer_id": 260286,
+                "player_id": 16305,
+                "in_team_id": 189,
+                "out_team_id": 194,
+                "date": "2015-07-01",
+                "type": "\u20ac 500K",
+                "update_date": "2025-07-29 11:43:05"
+            },
+            {
+                "transfer_id": 264467,
+                "player_id": 16305,
+                "in_team_id": 194,
+                "out_team_id": 7759,
+                "date": "2012-07-01",
+                "type": "Free",
+                "update_date": "2025-07-29 11:43:05"
+            }
+        ]
+    }
+}

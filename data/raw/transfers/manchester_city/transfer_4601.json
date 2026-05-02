@@ -1,0 +1,25 @@
+{
+    "team": "manchester_city",
+    "player_id": "4601",
+    "data": {
+        "status": "success",
+        "pagination": {
+            "total_count": 1,
+            "page_size": 120,
+            "page_count": 1,
+            "current_page": 1
+        },
+        "errors": null,
+        "response": [
+            {
+                "transfer_id": 169851,
+                "player_id": 4601,
+                "in_team_id": 70,
+                "out_team_id": 189,
+                "date": "2020-09-29",
+                "type": "\u20ac 68M",
+                "update_date": "2025-07-29 11:42:55"
+            }
+        ]
+    }
+}

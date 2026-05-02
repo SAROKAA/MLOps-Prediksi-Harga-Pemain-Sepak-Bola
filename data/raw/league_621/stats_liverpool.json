@@ -1,0 +1,3973 @@
+{
+    "metadata": {
+        "ingested_at": "20260501_225426",
+        "team_id": "65",
+        "team_name": "Liverpool",
+        "source": "RapidAPI-Live-Football"
+    },
+    "content": {
+        "status": "success",
+        "pagination": {
+            "total_count": 59,
+            "page_size": 120,
+            "page_count": 1,
+            "current_page": 1
+        },
+        "errors": null,
+        "response": [
+            {
+                "player_id": 320,
+                "team_id": 65,
+                "league_id": 621,
+                "season": 2024,
+                "statistics": {
+                    "cards": {
+                        "red": 0,
+                        "yellow": 2,
+                        "yellowred": 0
+                    },
+                    "duels": {
+                        "won": 61,
+                        "total": 170
+                    },
+                    "fouls": {
+                        "drawn": 14,
+                        "committed": 23
+                    },
+                    "games": {
+                        "number": null,
+                        "rating": "6.700000",
+                        "captain": false,
+                        "lineups": 14,
+                        "minutes": 1194,
+                        "position": "Attacker",
+                        "appearences": 26
+                    },
+                    "goals": {
+                        "saves": null,
+                        "total": 6,
+                        "assists": 3,
+                        "conceded": 0
+                    },
+                    "shots": {
+                        "on": 13,
+                        "total": 35
+                    },
+                    "passes": {
+                        "key": 11,
+                        "total": 297,
+                        "accuracy": null
+                    },
+                    "penalty": {
+                        "won": null,
+                        "saved": null,
+                        "missed": 0,
+                        "scored": 0,
+                        "commited": null
+                    },
+                    "tackles": {
+                        "total": 14,
+                        "blocks": null,
+                        "interceptions": 8
+                    },
+                    "dribbles": {
+                        "past": null,
+                        "success": 11,
+                        "attempts": 31
+                    },
+                    "substitutes": {
+                        "in": 12,
+                        "out": 12,
+                        "bench": 15
+                    }
+                }
+            },
+            {
+                "player_id": 380,
+                "team_id": 65,
+                "league_id": 621,
+                "season": 2024,
+                "statistics": {
+                    "cards": {
+                        "red": 0,
+                        "yellow": 1,
+                        "yellowred": 0
+                    },
+                    "duels": {
+                        "won": 127,
+                        "total": 313
+                    },
+                    "fouls": {
+                        "drawn": 39,
+                        "committed": 25
+                    },
+                    "games": {
+                        "number": null,
+                        "rating": "7.792105",
+                        "captain": false,
+                        "lineups": 38,
+                        "minutes": 3380,
+                        "position": "Attacker",
+                        "appearences": 38
+                    },
+                    "goals": {
+                        "saves": null,
+                        "total": 29,
+                        "assists": 18,
+                        "conceded": 0
+                    },
+                    "shots": {
+                        "on": 61,
+                        "total": 104
+                    },
+                    "passes": {
+                        "key": 91,
+                        "total": 1153,
+                        "accuracy": null
+                    },
+                    "penalty": {
+                        "won": null,
+                        "saved": null,
+                        "missed": 0,
+                        "scored": 9,
+                        "commited": null
+                    },
+                    "tackles": {
+                        "total": 22,
+                        "blocks": null,
+                        "interceptions": 9
+                    },
+                    "dribbles": {
+                        "past": null,
+                        "success": 57,
+                        "attempts": 130
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 9,
+                        "bench": 0
+                    }
+                }
+            },
+            {
+                "player_id": 582,
+                "team_id": 65,
+                "league_id": 621,
+                "season": 2024,
+                "statistics": {
+                    "cards": {
+                        "red": 0,
+                        "yellow": 5,
+                        "yellowred": 0
+                    },
+                    "duels": {
+                        "won": 106,
+                        "total": 209
+                    },
+                    "fouls": {
+                        "drawn": 31,
+                        "committed": 20
+                    },
+                    "games": {
+                        "number": null,
+                        "rating": "7.220000",
+                        "captain": false,
+                        "lineups": 23,
+                        "minutes": 1938,
+                        "position": "Attacker",
+                        "appearences": 35
+                    },
+                    "goals": {
+                        "saves": null,
+                        "total": 10,
+                        "assists": 4,
+                        "conceded": 0
+                    },
+                    "shots": {
+                        "on": 23,
+                        "total": 47
+                    },
+                    "passes": {
+                        "key": 38,
+                        "total": 547,
+                        "accuracy": null
+                    },
+                    "penalty": {
+                        "won": null,
+                        "saved": null,
+                        "missed": 0,
+                        "scored": 0,
+                        "commited": null
+                    },
+                    "tackles": {
+                        "total": 28,
+                        "blocks": 3,
+                        "interceptions": 12
+                    },
+                    "dribbles": {
+                        "past": null,
+                        "success": 30,
+                        "attempts": 51
+                    },
+                    "substitutes": {
+                        "in": 12,
+                        "out": 17,
+                        "bench": 12
+                    }
+                }
+            },
+            {
+                "player_id": 1152,
+                "team_id": 65,
+                "league_id": 621,
+                "season": 2024,
+                "statistics": {
+                    "cards": {
+                        "red": 0,
+                        "yellow": 8,
+                        "yellowred": 0
+                    },
+                    "duels": {
+                        "won": 63,
+                        "total": 167
+                    },
+                    "fouls": {
+                        "drawn": 14,
+                        "committed": 27
+                    },
+                    "games": {
+                        "number": null,
+                        "rating": "6.786666",
+                        "captain": false,
+                        "lineups": 8,
+                        "minutes": 1119,
+                        "position": "Attacker",
+                        "appearences": 30
+                    },
+                    "goals": {
+                        "saves": null,
+                        "total": 5,
+                        "assists": 2,
+                        "conceded": 0
+                    },
+                    "shots": {
+                        "on": 13,
+                        "total": 28
+                    },
+                    "passes": {
+                        "key": 12,
+                        "total": 224,
+                        "accuracy": null
+                    },
+                    "penalty": {
+                        "won": null,
+                        "saved": null,
+                        "missed": 0,
+                        "scored": 0,
+                        "commited": null
+                    },
+                    "tackles": {
+                        "total": 21,
+                        "blocks": null,
+                        "interceptions": 4
+                    },
+                    "dribbles": {
+                        "past": null,
+                        "success": 8,
+                        "attempts": 22
+                    },
+                    "substitutes": {
+                        "in": 22,
+                        "out": 6,
+                        "bench": 27
+                    }
+                }
+            },
+            {
+                "player_id": 1942,
+                "team_id": 65,
+                "league_id": 621,
+                "season": 2024,
+                "statistics": {
+                    "cards": {
+                        "red": 0,
+                        "yellow": 6,
+                        "yellowred": 0
+                    },
+                    "duels": {
+                        "won": 104,
+                        "total": 238
+                    },
+                    "fouls": {
+                        "drawn": 24,
+                        "committed": 44
+                    },
+                    "games": {
+                        "number": null,
+                        "rating": "7.130555",
+                        "captain": false,
+                        "lineups": 29,
+                        "minutes": 2495,
+                        "position": "Midfielder",
+                        "appearences": 36
+                    },
+                    "goals": {
+                        "saves": null,
+                        "total": 6,
+                        "assists": 6,
+                        "conceded": 0
+                    },
+                    "shots": {
+                        "on": 23,
+                        "total": 42
+                    },
+                    "passes": {
+                        "key": 56,
+                        "total": 1242,
+                        "accuracy": null
+                    },
+                    "penalty": {
+                        "won": null,
+                        "saved": null,
+                        "missed": 0,
+                        "scored": 0,
+                        "commited": null
+                    },
+                    "tackles": {
+                        "total": 40,
+                        "blocks": 5,
+                        "interceptions": 9
+                    },
+                    "dribbles": {
+                        "past": null,
+                        "success": 21,
+                        "attempts": 39
+                    },
+                    "substitutes": {
+                        "in": 7,
+                        "out": 12,
+                        "bench": 7
+                    }
+                }
+            },
+            {
+                "player_id": 2463,
+                "team_id": 65,
+                "league_id": 621,
+                "season": 2024,
+                "statistics": {
+                    "cards": {
+                        "red": null,
+                        "yellow": null,
+                        "yellowred": null
+                    },
+                    "duels": {
+                        "won": null,
+                        "total": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "games": {
+                        "number": null,
+                        "rating": null,
+                        "captain": false,
+                        "lineups": null,
+                        "minutes": null,
+                        "position": "Defender",
+                        "appearences": null
+                    },
+                    "goals": {
+                        "saves": null,
+                        "total": null,
+                        "assists": null,
+                        "conceded": null
+                    },
+                    "shots": {
+                        "on": null,
+                        "total": null
+                    },
+                    "passes": {
+                        "key": null,
+                        "total": null,
+                        "accuracy": null
+                    },
+                    "penalty": {
+                        "won": null,
+                        "saved": null,
+                        "missed": null,
+                        "scored": null,
+                        "commited": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "dribbles": {
+                        "past": null,
+                        "success": null,
+                        "attempts": null
+                    },
+                    "substitutes": {
+                        "in": null,
+                        "out": null,
+                        "bench": null
+                    }
+                }
+            },
+            {
+                "player_id": 3689,
+                "team_id": 65,
+                "league_id": 621,
+                "season": 2024,
+                "statistics": {
+                    "cards": {
+                        "red": 0,
+                        "yellow": 5,
+                        "yellowred": 0
+                    },
+                    "duels": {
+                        "won": 173,
+                        "total": 252
+                    },
+                    "fouls": {
+                        "drawn": 13,
+                        "committed": 17
+                    },
+                    "games": {
+                        "number": null,
+                        "rating": "7.275675",
+                        "captain": false,
+                        "lineups": 37,
+                        "minutes": 3330,
+                        "position": "Defender",
+                        "appearences": 37
+                    },
+                    "goals": {
+                        "saves": null,
+                        "total": 3,
+                        "assists": 1,
+                        "conceded": 0
+                    },
+                    "shots": {
+                        "on": 8,
+                        "total": 24
+                    },
+                    "passes": {
+                        "key": 12,
+                        "total": 2920,
+                        "accuracy": 72
+                    },
+                    "penalty": {
+                        "won": null,
+                        "saved": null,
+                        "missed": 0,
+                        "scored": 0,
+                        "commited": null
+                    },
+                    "tackles": {
+                        "total": 38,
+                        "blocks": 16,
+                        "interceptions": 56
+                    },
+                    "dribbles": {
+                        "past": null,
+                        "success": 3,
+                        "attempts": 5
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 1
+                    }
+                }
+            },
+            {
+                "player_id": 3693,
+                "team_id": 65,
+                "league_id": 621,
+                "season": 2024,
+                "statistics": {
+                    "cards": {
+                        "red": null,
+                        "yellow": null,
+                        "yellowred": null
+                    },
+                    "duels": {
+                        "won": null,
+                        "total": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "games": {
+                        "number": null,
+                        "rating": null,
+                        "captain": false,
+                        "lineups": null,
+                        "minutes": null,
+                        "position": "Defender",
+                        "appearences": null
+                    },
+                    "goals": {
+                        "saves": null,
+                        "total": null,
+                        "assists": null,
+                        "conceded": null
+                    },
+                    "shots": {
+                        "on": null,
+                        "total": null
+                    },
+                    "passes": {
+                        "key": null,
+                        "total": null,
+                        "accuracy": null
+                    },
+                    "penalty": {
+                        "won": null,
+                        "saved": null,
+                        "missed": null,
+                        "scored": null,
+                        "commited": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "dribbles": {
+                        "past": null,
+                        "success": null,
+                        "attempts": null
+                    },
+                    "substitutes": {
+                        "in": null,
+                        "out": null,
+                        "bench": null
+                    }
+                }
+            },
+            {
+                "player_id": 4259,
+                "team_id": 65,
+                "league_id": 621,
+                "season": 2024,
+                "statistics": {
+                    "cards": {
+                        "red": 0,
+                        "yellow": 0,
+                        "yellowred": 0
+                    },
+                    "duels": {
+                        "won": 3,
+                        "total": 18
+                    },
+                    "fouls": {
+                        "drawn": 2,
+                        "committed": 3
+                    },
+                    "games": {
+                        "number": null,
+                        "rating": "6.416666",
+                        "captain": false,
+                        "lineups": 1,
+                        "minutes": 104,
+                        "position": "Attacker",
+                        "appearences": 6
+                    },
+                    "goals": {
+                        "saves": null,
+                        "total": 0,
+                        "assists": 0,
+                        "conceded": 0
+                    },
+                    "shots": {
+                        "on": 2,
+                        "total": 3
+                    },
+                    "passes": {
+                        "key": 2,
+                        "total": 28,
+                        "accuracy": null
+                    },
+                    "penalty": {
+                        "won": null,
+                        "saved": null,
+                        "missed": 0,
+                        "scored": 0,
+                        "commited": null
+                    },
+                    "tackles": {
+                        "total": 1,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "dribbles": {
+                        "past": null,
+                        "success": null,
+                        "attempts": 2
+                    },
+                    "substitutes": {
+                        "in": 5,
+                        "out": 1,
+                        "bench": 18
+                    }
+                }
+            },
+            {
+                "player_id": 4449,
+                "team_id": 65,
+                "league_id": 621,
+                "season": 2024,
+                "statistics": {
+                    "cards": {
+                        "red": 0,
+                        "yellow": 6,
+                        "yellowred": 0
+                    },
+                    "duels": {
+                        "won": 172,
+                        "total": 358
+                    },
+                    "fouls": {
+                        "drawn": 40,
+                        "committed": 62
+                    },
+                    "games": {
+                        "number": null,
+                        "rating": "7.242857",
+                        "captain": false,
+                        "lineups": 30,
+                        "minutes": 2607,
+                        "position": "Midfielder",
+                        "appearences": 35
+                    },
+                    "goals": {
+                        "saves": null,
+                        "total": 5,
+                        "assists": 5,
+                        "conceded": 0
+                    },
+                    "shots": {
+                        "on": 14,
+                        "total": 25
+                    },
+                    "passes": {
+                        "key": 45,
+                        "total": 1425,
+                        "accuracy": null
+                    },
+                    "penalty": {
+                        "won": null,
+                        "saved": null,
+                        "missed": 0,
+                        "scored": 0,
+                        "commited": null
+                    },
+                    "tackles": {
+                        "total": 97,
+                        "blocks": 6,
+                        "interceptions": 22
+                    },
+                    "dribbles": {
+                        "past": null,
+                        "success": 16,
+                        "attempts": 37
+                    },
+                    "substitutes": {
+                        "in": 5,
+                        "out": 13,
+                        "bench": 5
+                    }
+                }
+            },
+            {
+                "player_id": 5797,
+                "team_id": 65,
+                "league_id": 621,
+                "season": 2024,
+                "statistics": {
+                    "cards": {
+                        "red": 0,
+                        "yellow": 2,
+                        "yellowred": 0
+                    },
+                    "duels": {
+                        "won": 136,
+                        "total": 344
+                    },
+                    "fouls": {
+                        "drawn": 31,
+                        "committed": 48
+                    },
+                    "games": {
+                        "number": null,
+                        "rating": "7.269444",
+                        "captain": false,
+                        "lineups": 28,
+                        "minutes": 2413,
+                        "position": "Attacker",
+                        "appearences": 36
+                    },
+                    "goals": {
+                        "saves": null,
+                        "total": 13,
+                        "assists": 5,
+                        "conceded": 0
+                    },
+                    "shots": {
+                        "on": 30,
+                        "total": 49
+                    },
+                    "passes": {
+                        "key": 56,
+                        "total": 827,
+                        "accuracy": null
+                    },
+                    "penalty": {
+                        "won": null,
+                        "saved": null,
+                        "missed": 0,
+                        "scored": 0,
+                        "commited": null
+                    },
+                    "tackles": {
+                        "total": 39,
+                        "blocks": null,
+                        "interceptions": 7
+                    },
+                    "dribbles": {
+                        "past": null,
+                        "success": 53,
+                        "attempts": 104
+                    },
+                    "substitutes": {
+                        "in": 8,
+                        "out": 21,
+                        "bench": 10
+                    }
+                }
+            },
+            {
+                "player_id": 6460,
+                "team_id": 65,
+                "league_id": 621,
+                "season": 2024,
+                "statistics": {
+                    "cards": {
+                        "red": 0,
+                        "yellow": 0,
+                        "yellowred": 0
+                    },
+                    "duels": {
+                        "won": 24,
+                        "total": 50
+                    },
+                    "fouls": {
+                        "drawn": 7,
+                        "committed": 15
+                    },
+                    "games": {
+                        "number": null,
+                        "rating": "6.656250",
+                        "captain": false,
+                        "lineups": 1,
+                        "minutes": 257,
+                        "position": "Midfielder",
+                        "appearences": 20
+                    },
+                    "goals": {
+                        "saves": null,
+                        "total": 0,
+                        "assists": 0,
+                        "conceded": 0
+                    },
+                    "shots": {
+                        "on": null,
+                        "total": null
+                    },
+                    "passes": {
+                        "key": 2,
+                        "total": 189,
+                        "accuracy": null
+                    },
+                    "penalty": {
+                        "won": null,
+                        "saved": null,
+                        "missed": 0,
+                        "scored": 0,
+                        "commited": null
+                    },
+                    "tackles": {
+                        "total": 12,
+                        "blocks": 1,
+                        "interceptions": 6
+                    },
+                    "dribbles": {
+                        "past": null,
+                        "success": 2,
+                        "attempts": 2
+                    },
+                    "substitutes": {
+                        "in": 19,
+                        "out": 1,
+                        "bench": 36
+                    }
+                }
+            },
+            {
+                "player_id": 6557,
+                "team_id": 65,
+                "league_id": 621,
+                "season": 2024,
+                "statistics": {
+                    "cards": {
+                        "red": null,
+                        "yellow": null,
+                        "yellowred": null
+                    },
+                    "duels": {
+                        "won": null,
+                        "total": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "games": {
+                        "number": null,
+                        "rating": null,
+                        "captain": false,
+                        "lineups": null,
+                        "minutes": null,
+                        "position": "Midfielder",
+                        "appearences": null
+                    },
+                    "goals": {
+                        "saves": null,
+                        "total": null,
+                        "assists": null,
+                        "conceded": null
+                    },
+                    "shots": {
+                        "on": null,
+                        "total": null
+                    },
+                    "passes": {
+                        "key": null,
+                        "total": null,
+                        "accuracy": null
+                    },
+                    "penalty": {
+                        "won": null,
+                        "saved": null,
+                        "missed": null,
+                        "scored": null,
+                        "commited": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "dribbles": {
+                        "past": null,
+                        "success": null,
+                        "attempts": null
+                    },
+                    "substitutes": {
+                        "in": null,
+                        "out": null,
+                        "bench": null
+                    }
+                }
+            },
+            {
+                "player_id": 6895,
+                "team_id": 65,
+                "league_id": 621,
+                "season": 2024,
+                "statistics": {
+                    "cards": {
+                        "red": null,
+                        "yellow": null,
+                        "yellowred": null
+                    },
+                    "duels": {
+                        "won": null,
+                        "total": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "games": {
+                        "number": null,
+                        "rating": null,
+                        "captain": false,
+                        "lineups": null,
+                        "minutes": null,
+                        "position": "Defender",
+                        "appearences": null
+                    },
+                    "goals": {
+                        "saves": null,
+                        "total": null,
+                        "assists": null,
+                        "conceded": null
+                    },
+                    "shots": {
+                        "on": null,
+                        "total": null
+                    },
+                    "passes": {
+                        "key": null,
+                        "total": null,
+                        "accuracy": null
+                    },
+                    "penalty": {
+                        "won": null,
+                        "saved": null,
+                        "missed": null,
+                        "scored": null,
+                        "commited": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "dribbles": {
+                        "past": null,
+                        "success": null,
+                        "attempts": null
+                    },
+                    "substitutes": {
+                        "in": null,
+                        "out": null,
+                        "bench": null
+                    }
+                }
+            },
+            {
+                "player_id": 7184,
+                "team_id": 65,
+                "league_id": 621,
+                "season": 2024,
+                "statistics": {
+                    "cards": {
+                        "red": 0,
+                        "yellow": 0,
+                        "yellowred": 0
+                    },
+                    "duels": {
+                        "won": 27,
+                        "total": 63
+                    },
+                    "fouls": {
+                        "drawn": 10,
+                        "committed": 5
+                    },
+                    "games": {
+                        "number": null,
+                        "rating": "6.664705",
+                        "captain": false,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "position": "Midfielder",
+                        "appearences": 0
+                    },
+                    "goals": {
+                        "saves": null,
+                        "total": 0,
+                        "assists": 1,
+                        "conceded": 0
+                    },
+                    "shots": {
+                        "on": 6,
+                        "total": 8
+                    },
+                    "passes": {
+                        "key": 4,
+                        "total": 166,
+                        "accuracy": null
+                    },
+                    "penalty": {
+                        "won": null,
+                        "saved": null,
+                        "missed": 0,
+                        "scored": 0,
+                        "commited": null
+                    },
+                    "tackles": {
+                        "total": 13,
+                        "blocks": 1,
+                        "interceptions": 3
+                    },
+                    "dribbles": {
+                        "past": null,
+                        "success": 2,
+                        "attempts": 12
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    }
+                }
+            },
+            {
+                "player_id": 8583,
+                "team_id": 65,
+                "league_id": 621,
+                "season": 2024,
+                "statistics": {
+                    "cards": {
+                        "red": 0,
+                        "yellow": 5,
+                        "yellowred": 0
+                    },
+                    "duels": {
+                        "won": 100,
+                        "total": 212
+                    },
+                    "fouls": {
+                        "drawn": 9,
+                        "committed": 11
+                    },
+                    "games": {
+                        "number": null,
+                        "rating": "7.257575",
+                        "captain": false,
+                        "lineups": 28,
+                        "minutes": 2377,
+                        "position": "Defender",
+                        "appearences": 33
+                    },
+                    "goals": {
+                        "saves": null,
+                        "total": 3,
+                        "assists": 6,
+                        "conceded": 0
+                    },
+                    "shots": {
+                        "on": 8,
+                        "total": 27
+                    },
+                    "passes": {
+                        "key": 56,
+                        "total": 1616,
+                        "accuracy": null
+                    },
+                    "penalty": {
+                        "won": null,
+                        "saved": null,
+                        "missed": 0,
+                        "scored": 0,
+                        "commited": null
+                    },
+                    "tackles": {
+                        "total": 72,
+                        "blocks": 9,
+                        "interceptions": 31
+                    },
+                    "dribbles": {
+                        "past": null,
+                        "success": 16,
+                        "attempts": 33
+                    },
+                    "substitutes": {
+                        "in": 5,
+                        "out": 16,
+                        "bench": 6
+                    }
+                }
+            },
+            {
+                "player_id": 8584,
+                "team_id": 65,
+                "league_id": 621,
+                "season": 2024,
+                "statistics": {
+                    "cards": {
+                        "red": 1,
+                        "yellow": 3,
+                        "yellowred": 0
+                    },
+                    "duels": {
+                        "won": 61,
+                        "total": 128
+                    },
+                    "fouls": {
+                        "drawn": 8,
+                        "committed": 11
+                    },
+                    "games": {
+                        "number": null,
+                        "rating": "6.836363",
+                        "captain": false,
+                        "lineups": 29,
+                        "minutes": 2491,
+                        "position": "Defender",
+                        "appearences": 33
+                    },
+                    "goals": {
+                        "saves": null,
+                        "total": 0,
+                        "assists": 1,
+                        "conceded": 0
+                    },
+                    "shots": {
+                        "on": 3,
+                        "total": 13
+                    },
+                    "passes": {
+                        "key": 40,
+                        "total": 1541,
+                        "accuracy": 41
+                    },
+                    "penalty": {
+                        "won": null,
+                        "saved": null,
+                        "missed": 0,
+                        "scored": 0,
+                        "commited": null
+                    },
+                    "tackles": {
+                        "total": 39,
+                        "blocks": 4,
+                        "interceptions": 20
+                    },
+                    "dribbles": {
+                        "past": null,
+                        "success": 7,
+                        "attempts": 17
+                    },
+                    "substitutes": {
+                        "in": 4,
+                        "out": 12,
+                        "bench": 9
+                    }
+                }
+            },
+            {
+                "player_id": 8925,
+                "team_id": 65,
+                "league_id": 621,
+                "season": 2024,
+                "statistics": {
+                    "cards": {
+                        "red": 1,
+                        "yellow": 6,
+                        "yellowred": 0
+                    },
+                    "duels": {
+                        "won": 184,
+                        "total": 324
+                    },
+                    "fouls": {
+                        "drawn": 52,
+                        "committed": 47
+                    },
+                    "games": {
+                        "number": null,
+                        "rating": "7.070270",
+                        "captain": false,
+                        "lineups": 37,
+                        "minutes": 3169,
+                        "position": "Midfielder",
+                        "appearences": 37
+                    },
+                    "goals": {
+                        "saves": null,
+                        "total": 0,
+                        "assists": 4,
+                        "conceded": 0
+                    },
+                    "shots": {
+                        "on": 5,
+                        "total": 13
+                    },
+                    "passes": {
+                        "key": 26,
+                        "total": 1904,
+                        "accuracy": 46
+                    },
+                    "penalty": {
+                        "won": null,
+                        "saved": null,
+                        "missed": 0,
+                        "scored": 0,
+                        "commited": null
+                    },
+                    "tackles": {
+                        "total": 69,
+                        "blocks": 10,
+                        "interceptions": 59
+                    },
+                    "dribbles": {
+                        "past": null,
+                        "success": 37,
+                        "attempts": 67
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 9,
+                        "bench": 0
+                    }
+                }
+            },
+            {
+                "player_id": 9710,
+                "team_id": 65,
+                "league_id": 621,
+                "season": 2024,
+                "statistics": {
+                    "cards": {
+                        "red": 0,
+                        "yellow": 0,
+                        "yellowred": 0
+                    },
+                    "duels": {
+                        "won": null,
+                        "total": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "games": {
+                        "number": null,
+                        "rating": null,
+                        "captain": false,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "position": "Goalkeeper",
+                        "appearences": 0
+                    },
+                    "goals": {
+                        "saves": null,
+                        "total": 0,
+                        "assists": null,
+                        "conceded": null
+                    },
+                    "shots": {
+                        "on": null,
+                        "total": null
+                    },
+                    "passes": {
+                        "key": null,
+                        "total": null,
+                        "accuracy": null
+                    },
+                    "penalty": {
+                        "won": null,
+                        "saved": null,
+                        "missed": null,
+                        "scored": null,
+                        "commited": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "dribbles": {
+                        "past": null,
+                        "success": null,
+                        "attempts": null
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    }
+                }
+            },
+            {
+                "player_id": 12090,
+                "team_id": 65,
+                "league_id": 621,
+                "season": 2024,
+                "statistics": {
+                    "cards": {
+                        "red": null,
+                        "yellow": null,
+                        "yellowred": null
+                    },
+                    "duels": {
+                        "won": null,
+                        "total": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "games": {
+                        "number": null,
+                        "rating": null,
+                        "captain": false,
+                        "lineups": null,
+                        "minutes": null,
+                        "position": "Midfielder",
+                        "appearences": null
+                    },
+                    "goals": {
+                        "saves": null,
+                        "total": null,
+                        "assists": null,
+                        "conceded": null
+                    },
+                    "shots": {
+                        "on": null,
+                        "total": null
+                    },
+                    "passes": {
+                        "key": null,
+                        "total": null,
+                        "accuracy": null
+                    },
+                    "penalty": {
+                        "won": null,
+                        "saved": null,
+                        "missed": null,
+                        "scored": null,
+                        "commited": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "dribbles": {
+                        "past": null,
+                        "success": null,
+                        "attempts": null
+                    },
+                    "substitutes": {
+                        "in": null,
+                        "out": null,
+                        "bench": null
+                    }
+                }
+            },
+            {
+                "player_id": 13201,
+                "team_id": 65,
+                "league_id": 621,
+                "season": 2024,
+                "statistics": {
+                    "cards": {
+                        "red": 0,
+                        "yellow": 4,
+                        "yellowred": 0
+                    },
+                    "duels": {
+                        "won": 49,
+                        "total": 96
+                    },
+                    "fouls": {
+                        "drawn": 14,
+                        "committed": 12
+                    },
+                    "games": {
+                        "number": null,
+                        "rating": "6.783333",
+                        "captain": false,
+                        "lineups": 7,
+                        "minutes": 748,
+                        "position": "Defender",
+                        "appearences": 19
+                    },
+                    "goals": {
+                        "saves": null,
+                        "total": 0,
+                        "assists": 2,
+                        "conceded": 0
+                    },
+                    "shots": {
+                        "on": 3,
+                        "total": 5
+                    },
+                    "passes": {
+                        "key": 7,
+                        "total": 476,
+                        "accuracy": null
+                    },
+                    "penalty": {
+                        "won": null,
+                        "saved": null,
+                        "missed": 0,
+                        "scored": 0,
+                        "commited": null
+                    },
+                    "tackles": {
+                        "total": 14,
+                        "blocks": 2,
+                        "interceptions": 4
+                    },
+                    "dribbles": {
+                        "past": null,
+                        "success": 10,
+                        "attempts": 22
+                    },
+                    "substitutes": {
+                        "in": 12,
+                        "out": 7,
+                        "bench": 18
+                    }
+                }
+            },
+            {
+                "player_id": 13552,
+                "team_id": 65,
+                "league_id": 621,
+                "season": 2024,
+                "statistics": {
+                    "cards": {
+                        "red": 0,
+                        "yellow": 0,
+                        "yellowred": 0
+                    },
+                    "duels": {
+                        "won": null,
+                        "total": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "games": {
+                        "number": null,
+                        "rating": null,
+                        "captain": false,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "position": "Midfielder",
+                        "appearences": 0
+                    },
+                    "goals": {
+                        "saves": null,
+                        "total": 0,
+                        "assists": null,
+                        "conceded": 0
+                    },
+                    "shots": {
+                        "on": null,
+                        "total": null
+                    },
+                    "passes": {
+                        "key": null,
+                        "total": null,
+                        "accuracy": null
+                    },
+                    "penalty": {
+                        "won": null,
+                        "saved": null,
+                        "missed": 0,
+                        "scored": 0,
+                        "commited": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "dribbles": {
+                        "past": null,
+                        "success": null,
+                        "attempts": null
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 8
+                    }
+                }
+            },
+            {
+                "player_id": 14228,
+                "team_id": 65,
+                "league_id": 621,
+                "season": 2024,
+                "statistics": {
+                    "cards": {
+                        "red": 0,
+                        "yellow": 2,
+                        "yellowred": 0
+                    },
+                    "duels": {
+                        "won": 47,
+                        "total": 82
+                    },
+                    "fouls": {
+                        "drawn": 6,
+                        "committed": 9
+                    },
+                    "games": {
+                        "number": null,
+                        "rating": "7.016666",
+                        "captain": false,
+                        "lineups": 9,
+                        "minutes": 834,
+                        "position": "Defender",
+                        "appearences": 18
+                    },
+                    "goals": {
+                        "saves": null,
+                        "total": 0,
+                        "assists": 1,
+                        "conceded": 0
+                    },
+                    "shots": {
+                        "on": 2,
+                        "total": 3
+                    },
+                    "passes": {
+                        "key": 17,
+                        "total": 525,
+                        "accuracy": null
+                    },
+                    "penalty": {
+                        "won": null,
+                        "saved": null,
+                        "missed": 0,
+                        "scored": 0,
+                        "commited": null
+                    },
+                    "tackles": {
+                        "total": 31,
+                        "blocks": 2,
+                        "interceptions": 11
+                    },
+                    "dribbles": {
+                        "past": null,
+                        "success": 5,
+                        "attempts": 10
+                    },
+                    "substitutes": {
+                        "in": 9,
+                        "out": 5,
+                        "bench": 25
+                    }
+                }
+            },
+            {
+                "player_id": 16306,
+                "team_id": 65,
+                "league_id": 621,
+                "season": 2024,
+                "statistics": {
+                    "cards": {
+                        "red": 0,
+                        "yellow": 0,
+                        "yellowred": 0
+                    },
+                    "duels": {
+                        "won": 11,
+                        "total": 12
+                    },
+                    "fouls": {
+                        "drawn": 2,
+                        "committed": null
+                    },
+                    "games": {
+                        "number": null,
+                        "rating": "7.110714",
+                        "captain": false,
+                        "lineups": 28,
+                        "minutes": 2509,
+                        "position": "Goalkeeper",
+                        "appearences": 28
+                    },
+                    "goals": {
+                        "saves": 78,
+                        "total": 0,
+                        "assists": 0,
+                        "conceded": 29
+                    },
+                    "shots": {
+                        "on": null,
+                        "total": null
+                    },
+                    "passes": {
+                        "key": 1,
+                        "total": 828,
+                        "accuracy": null
+                    },
+                    "penalty": {
+                        "won": null,
+                        "saved": 0,
+                        "missed": 0,
+                        "scored": 0,
+                        "commited": null
+                    },
+                    "tackles": {
+                        "total": 1,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "dribbles": {
+                        "past": null,
+                        "success": 1,
+                        "attempts": 1
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 1,
+                        "bench": 0
+                    }
+                }
+            },
+            {
+                "player_id": 18761,
+                "team_id": 65,
+                "league_id": 621,
+                "season": 2024,
+                "statistics": {
+                    "cards": {
+                        "red": 0,
+                        "yellow": 1,
+                        "yellowred": 0
+                    },
+                    "duels": {
+                        "won": 11,
+                        "total": 27
+                    },
+                    "fouls": {
+                        "drawn": 1,
+                        "committed": null
+                    },
+                    "games": {
+                        "number": null,
+                        "rating": "6.831250",
+                        "captain": false,
+                        "lineups": 2,
+                        "minutes": 356,
+                        "position": "Midfielder",
+                        "appearences": 18
+                    },
+                    "goals": {
+                        "saves": null,
+                        "total": 1,
+                        "assists": 2,
+                        "conceded": 0
+                    },
+                    "shots": {
+                        "on": 4,
+                        "total": 13
+                    },
+                    "passes": {
+                        "key": 10,
+                        "total": 269,
+                        "accuracy": null
+                    },
+                    "penalty": {
+                        "won": null,
+                        "saved": null,
+                        "missed": 0,
+                        "scored": 0,
+                        "commited": null
+                    },
+                    "tackles": {
+                        "total": 5,
+                        "blocks": 2,
+                        "interceptions": 1
+                    },
+                    "dribbles": {
+                        "past": null,
+                        "success": 4,
+                        "attempts": 8
+                    },
+                    "substitutes": {
+                        "in": 16,
+                        "out": 1,
+                        "bench": 28
+                    }
+                }
+            },
+            {
+                "player_id": 19883,
+                "team_id": 65,
+                "league_id": 621,
+                "season": 2024,
+                "statistics": {
+                    "cards": {
+                        "red": 0,
+                        "yellow": 1,
+                        "yellowred": 0
+                    },
+                    "duels": {
+                        "won": 25,
+                        "total": 38
+                    },
+                    "fouls": {
+                        "drawn": 3,
+                        "committed": 2
+                    },
+                    "games": {
+                        "number": null,
+                        "rating": "6.900000",
+                        "captain": false,
+                        "lineups": 6,
+                        "minutes": 518,
+                        "position": "Defender",
+                        "appearences": 9
+                    },
+                    "goals": {
+                        "saves": null,
+                        "total": 0,
+                        "assists": 0,
+                        "conceded": 0
+                    },
+                    "shots": {
+                        "on": 2,
+                        "total": 3
+                    },
+                    "passes": {
+                        "key": 2,
+                        "total": 416,
+                        "accuracy": 41
+                    },
+                    "penalty": {
+                        "won": null,
+                        "saved": null,
+                        "missed": 0,
+                        "scored": 0,
+                        "commited": null
+                    },
+                    "tackles": {
+                        "total": 13,
+                        "blocks": 6,
+                        "interceptions": 7
+                    },
+                    "dribbles": {
+                        "past": null,
+                        "success": null,
+                        "attempts": null
+                    },
+                    "substitutes": {
+                        "in": 3,
+                        "out": 2,
+                        "bench": 13
+                    }
+                }
+            },
+            {
+                "player_id": 20225,
+                "team_id": 65,
+                "league_id": 621,
+                "season": 2024,
+                "statistics": {
+                    "cards": {
+                        "red": 0,
+                        "yellow": 0,
+                        "yellowred": 0
+                    },
+                    "duels": {
+                        "won": null,
+                        "total": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "games": {
+                        "number": null,
+                        "rating": null,
+                        "captain": false,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "position": "Defender",
+                        "appearences": 0
+                    },
+                    "goals": {
+                        "saves": null,
+                        "total": 0,
+                        "assists": null,
+                        "conceded": null
+                    },
+                    "shots": {
+                        "on": null,
+                        "total": null
+                    },
+                    "passes": {
+                        "key": null,
+                        "total": null,
+                        "accuracy": null
+                    },
+                    "penalty": {
+                        "won": null,
+                        "saved": null,
+                        "missed": null,
+                        "scored": null,
+                        "commited": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "dribbles": {
+                        "past": null,
+                        "success": null,
+                        "attempts": null
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    }
+                }
+            },
+            {
+                "player_id": 20896,
+                "team_id": 65,
+                "league_id": 621,
+                "season": 2024,
+                "statistics": {
+                    "cards": {
+                        "red": 0,
+                        "yellow": 5,
+                        "yellowred": 0
+                    },
+                    "duels": {
+                        "won": 138,
+                        "total": 208
+                    },
+                    "fouls": {
+                        "drawn": 20,
+                        "committed": 27
+                    },
+                    "games": {
+                        "number": null,
+                        "rating": "7.132258",
+                        "captain": false,
+                        "lineups": 30,
+                        "minutes": 2566,
+                        "position": "Defender",
+                        "appearences": 31
+                    },
+                    "goals": {
+                        "saves": null,
+                        "total": 1,
+                        "assists": 2,
+                        "conceded": 0
+                    },
+                    "shots": {
+                        "on": 4,
+                        "total": 15
+                    },
+                    "passes": {
+                        "key": 10,
+                        "total": 1895,
+                        "accuracy": 55
+                    },
+                    "penalty": {
+                        "won": null,
+                        "saved": null,
+                        "missed": 0,
+                        "scored": 0,
+                        "commited": null
+                    },
+                    "tackles": {
+                        "total": 41,
+                        "blocks": 15,
+                        "interceptions": 17
+                    },
+                    "dribbles": {
+                        "past": null,
+                        "success": 3,
+                        "attempts": 5
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 6,
+                        "bench": 2
+                    }
+                }
+            },
+            {
+                "player_id": 21004,
+                "team_id": 65,
+                "league_id": 621,
+                "season": 2024,
+                "statistics": {
+                    "cards": {
+                        "red": 0,
+                        "yellow": 2,
+                        "yellowred": 1
+                    },
+                    "duels": {
+                        "won": 90,
+                        "total": 174
+                    },
+                    "fouls": {
+                        "drawn": 25,
+                        "committed": 18
+                    },
+                    "games": {
+                        "number": null,
+                        "rating": "6.878125",
+                        "captain": false,
+                        "lineups": 19,
+                        "minutes": 1712,
+                        "position": "Midfielder",
+                        "appearences": 33
+                    },
+                    "goals": {
+                        "saves": null,
+                        "total": 3,
+                        "assists": 3,
+                        "conceded": 0
+                    },
+                    "shots": {
+                        "on": 13,
+                        "total": 19
+                    },
+                    "passes": {
+                        "key": 22,
+                        "total": 1059,
+                        "accuracy": null
+                    },
+                    "penalty": {
+                        "won": null,
+                        "saved": null,
+                        "missed": 0,
+                        "scored": 0,
+                        "commited": null
+                    },
+                    "tackles": {
+                        "total": 39,
+                        "blocks": 9,
+                        "interceptions": 7
+                    },
+                    "dribbles": {
+                        "past": null,
+                        "success": 12,
+                        "attempts": 20
+                    },
+                    "substitutes": {
+                        "in": 14,
+                        "out": 13,
+                        "bench": 15
+                    }
+                }
+            },
+            {
+                "player_id": 21250,
+                "team_id": 65,
+                "league_id": 621,
+                "season": 2024,
+                "statistics": {
+                    "cards": {
+                        "red": 0,
+                        "yellow": 0,
+                        "yellowred": 0
+                    },
+                    "duels": {
+                        "won": null,
+                        "total": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "games": {
+                        "number": null,
+                        "rating": "7.300000",
+                        "captain": false,
+                        "lineups": 0,
+                        "minutes": 11,
+                        "position": "Goalkeeper",
+                        "appearences": 1
+                    },
+                    "goals": {
+                        "saves": 1,
+                        "total": 0,
+                        "assists": 0,
+                        "conceded": 0
+                    },
+                    "shots": {
+                        "on": null,
+                        "total": null
+                    },
+                    "passes": {
+                        "key": null,
+                        "total": 6,
+                        "accuracy": null
+                    },
+                    "penalty": {
+                        "won": null,
+                        "saved": 0,
+                        "missed": 0,
+                        "scored": 0,
+                        "commited": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "dribbles": {
+                        "past": null,
+                        "success": null,
+                        "attempts": null
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 0,
+                        "bench": 12
+                    }
+                }
+            },
+            {
+                "player_id": 23512,
+                "team_id": 65,
+                "league_id": 621,
+                "season": 2024,
+                "statistics": {
+                    "cards": {
+                        "red": 0,
+                        "yellow": 0,
+                        "yellowred": 0
+                    },
+                    "duels": {
+                        "won": null,
+                        "total": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "games": {
+                        "number": null,
+                        "rating": null,
+                        "captain": false,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "position": "Defender",
+                        "appearences": 0
+                    },
+                    "goals": {
+                        "saves": null,
+                        "total": 0,
+                        "assists": null,
+                        "conceded": null
+                    },
+                    "shots": {
+                        "on": null,
+                        "total": null
+                    },
+                    "passes": {
+                        "key": null,
+                        "total": null,
+                        "accuracy": null
+                    },
+                    "penalty": {
+                        "won": null,
+                        "saved": null,
+                        "missed": null,
+                        "scored": null,
+                        "commited": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "dribbles": {
+                        "past": null,
+                        "success": null,
+                        "attempts": null
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    }
+                }
+            },
+            {
+                "player_id": 24912,
+                "team_id": 65,
+                "league_id": 621,
+                "season": 2024,
+                "statistics": {
+                    "cards": {
+                        "red": 0,
+                        "yellow": 0,
+                        "yellowred": 0
+                    },
+                    "duels": {
+                        "won": 142,
+                        "total": 260
+                    },
+                    "fouls": {
+                        "drawn": 5,
+                        "committed": 23
+                    },
+                    "games": {
+                        "number": null,
+                        "rating": "6.958064",
+                        "captain": false,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "position": "Defender",
+                        "appearences": 0
+                    },
+                    "goals": {
+                        "saves": null,
+                        "total": 0,
+                        "assists": 0,
+                        "conceded": 0
+                    },
+                    "shots": {
+                        "on": 6,
+                        "total": 18
+                    },
+                    "passes": {
+                        "key": 6,
+                        "total": 1205,
+                        "accuracy": null
+                    },
+                    "penalty": {
+                        "won": null,
+                        "saved": null,
+                        "missed": 0,
+                        "scored": 0,
+                        "commited": null
+                    },
+                    "tackles": {
+                        "total": 39,
+                        "blocks": 38,
+                        "interceptions": 22
+                    },
+                    "dribbles": {
+                        "past": null,
+                        "success": 4,
+                        "attempts": 7
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    }
+                }
+            },
+            {
+                "player_id": 24957,
+                "team_id": 65,
+                "league_id": 621,
+                "season": 2024,
+                "statistics": {
+                    "cards": {
+                        "red": 0,
+                        "yellow": 0,
+                        "yellowred": 0
+                    },
+                    "duels": {
+                        "won": null,
+                        "total": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "games": {
+                        "number": null,
+                        "rating": null,
+                        "captain": false,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "position": "Attacker",
+                        "appearences": 0
+                    },
+                    "goals": {
+                        "saves": null,
+                        "total": 0,
+                        "assists": null,
+                        "conceded": null
+                    },
+                    "shots": {
+                        "on": null,
+                        "total": null
+                    },
+                    "passes": {
+                        "key": null,
+                        "total": null,
+                        "accuracy": null
+                    },
+                    "penalty": {
+                        "won": null,
+                        "saved": null,
+                        "missed": null,
+                        "scored": null,
+                        "commited": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "dribbles": {
+                        "past": null,
+                        "success": null,
+                        "attempts": null
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    }
+                }
+            },
+            {
+                "player_id": 25407,
+                "team_id": 65,
+                "league_id": 621,
+                "season": 2024,
+                "statistics": {
+                    "cards": {
+                        "red": 0,
+                        "yellow": 0,
+                        "yellowred": 0
+                    },
+                    "duels": {
+                        "won": null,
+                        "total": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "games": {
+                        "number": null,
+                        "rating": null,
+                        "captain": false,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "position": "Goalkeeper",
+                        "appearences": 0
+                    },
+                    "goals": {
+                        "saves": null,
+                        "total": 0,
+                        "assists": null,
+                        "conceded": 0
+                    },
+                    "shots": {
+                        "on": null,
+                        "total": null
+                    },
+                    "passes": {
+                        "key": null,
+                        "total": null,
+                        "accuracy": null
+                    },
+                    "penalty": {
+                        "won": null,
+                        "saved": 0,
+                        "missed": 0,
+                        "scored": 0,
+                        "commited": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "dribbles": {
+                        "past": null,
+                        "success": null,
+                        "attempts": null
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 3
+                    }
+                }
+            },
+            {
+                "player_id": 27392,
+                "team_id": 65,
+                "league_id": 621,
+                "season": 2024,
+                "statistics": {
+                    "cards": {
+                        "red": 0,
+                        "yellow": 0,
+                        "yellowred": 0
+                    },
+                    "duels": {
+                        "won": null,
+                        "total": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "games": {
+                        "number": null,
+                        "rating": null,
+                        "captain": false,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "position": "Midfielder",
+                        "appearences": 0
+                    },
+                    "goals": {
+                        "saves": null,
+                        "total": 0,
+                        "assists": null,
+                        "conceded": 0
+                    },
+                    "shots": {
+                        "on": null,
+                        "total": null
+                    },
+                    "passes": {
+                        "key": null,
+                        "total": null,
+                        "accuracy": null
+                    },
+                    "penalty": {
+                        "won": null,
+                        "saved": null,
+                        "missed": 0,
+                        "scored": 0,
+                        "commited": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "dribbles": {
+                        "past": null,
+                        "success": null,
+                        "attempts": null
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 4
+                    }
+                }
+            },
+            {
+                "player_id": 28491,
+                "team_id": 65,
+                "league_id": 621,
+                "season": 2024,
+                "statistics": {
+                    "cards": {
+                        "red": 0,
+                        "yellow": 0,
+                        "yellowred": 0
+                    },
+                    "duels": {
+                        "won": null,
+                        "total": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "games": {
+                        "number": null,
+                        "rating": null,
+                        "captain": false,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "position": "Attacker",
+                        "appearences": 0
+                    },
+                    "goals": {
+                        "saves": null,
+                        "total": 0,
+                        "assists": null,
+                        "conceded": null
+                    },
+                    "shots": {
+                        "on": null,
+                        "total": null
+                    },
+                    "passes": {
+                        "key": null,
+                        "total": null,
+                        "accuracy": null
+                    },
+                    "penalty": {
+                        "won": null,
+                        "saved": null,
+                        "missed": null,
+                        "scored": null,
+                        "commited": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "dribbles": {
+                        "past": null,
+                        "success": null,
+                        "attempts": null
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    }
+                }
+            },
+            {
+                "player_id": 28582,
+                "team_id": 65,
+                "league_id": 621,
+                "season": 2024,
+                "statistics": {
+                    "cards": {
+                        "red": 0,
+                        "yellow": 2,
+                        "yellowred": 0
+                    },
+                    "duels": {
+                        "won": 21,
+                        "total": 47
+                    },
+                    "fouls": {
+                        "drawn": 1,
+                        "committed": 9
+                    },
+                    "games": {
+                        "number": null,
+                        "rating": "6.600000",
+                        "captain": false,
+                        "lineups": 4,
+                        "minutes": 487,
+                        "position": "Defender",
+                        "appearences": 13
+                    },
+                    "goals": {
+                        "saves": null,
+                        "total": 0,
+                        "assists": 0,
+                        "conceded": 0
+                    },
+                    "shots": {
+                        "on": null,
+                        "total": null
+                    },
+                    "passes": {
+                        "key": 2,
+                        "total": 378,
+                        "accuracy": null
+                    },
+                    "penalty": {
+                        "won": null,
+                        "saved": null,
+                        "missed": 0,
+                        "scored": 0,
+                        "commited": null
+                    },
+                    "tackles": {
+                        "total": 12,
+                        "blocks": 7,
+                        "interceptions": 7
+                    },
+                    "dribbles": {
+                        "past": null,
+                        "success": 1,
+                        "attempts": 3
+                    },
+                    "substitutes": {
+                        "in": 9,
+                        "out": 1,
+                        "bench": 34
+                    }
+                }
+            },
+            {
+                "player_id": 29615,
+                "team_id": 65,
+                "league_id": 621,
+                "season": 2024,
+                "statistics": {
+                    "cards": {
+                        "red": null,
+                        "yellow": null,
+                        "yellowred": null
+                    },
+                    "duels": {
+                        "won": null,
+                        "total": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "games": {
+                        "number": null,
+                        "rating": null,
+                        "captain": false,
+                        "lineups": null,
+                        "minutes": null,
+                        "position": "Midfielder",
+                        "appearences": null
+                    },
+                    "goals": {
+                        "saves": null,
+                        "total": null,
+                        "assists": null,
+                        "conceded": null
+                    },
+                    "shots": {
+                        "on": null,
+                        "total": null
+                    },
+                    "passes": {
+                        "key": null,
+                        "total": null,
+                        "accuracy": null
+                    },
+                    "penalty": {
+                        "won": null,
+                        "saved": null,
+                        "missed": null,
+                        "scored": null,
+                        "commited": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "dribbles": {
+                        "past": null,
+                        "success": null,
+                        "attempts": null
+                    },
+                    "substitutes": {
+                        "in": null,
+                        "out": null,
+                        "bench": null
+                    }
+                }
+            },
+            {
+                "player_id": 31492,
+                "team_id": 65,
+                "league_id": 621,
+                "season": 2024,
+                "statistics": {
+                    "cards": {
+                        "red": 0,
+                        "yellow": 0,
+                        "yellowred": 0
+                    },
+                    "duels": {
+                        "won": null,
+                        "total": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "games": {
+                        "number": null,
+                        "rating": null,
+                        "captain": false,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "position": "Defender",
+                        "appearences": 0
+                    },
+                    "goals": {
+                        "saves": null,
+                        "total": 0,
+                        "assists": null,
+                        "conceded": null
+                    },
+                    "shots": {
+                        "on": null,
+                        "total": null
+                    },
+                    "passes": {
+                        "key": null,
+                        "total": null,
+                        "accuracy": null
+                    },
+                    "penalty": {
+                        "won": null,
+                        "saved": null,
+                        "missed": null,
+                        "scored": null,
+                        "commited": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "dribbles": {
+                        "past": null,
+                        "success": null,
+                        "attempts": null
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    }
+                }
+            },
+            {
+                "player_id": 32429,
+                "team_id": 65,
+                "league_id": 621,
+                "season": 2024,
+                "statistics": {
+                    "cards": {
+                        "red": 0,
+                        "yellow": 0,
+                        "yellowred": 0
+                    },
+                    "duels": {
+                        "won": null,
+                        "total": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "games": {
+                        "number": null,
+                        "rating": null,
+                        "captain": false,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "position": "Goalkeeper",
+                        "appearences": 0
+                    },
+                    "goals": {
+                        "saves": null,
+                        "total": 0,
+                        "assists": null,
+                        "conceded": null
+                    },
+                    "shots": {
+                        "on": null,
+                        "total": null
+                    },
+                    "passes": {
+                        "key": null,
+                        "total": null,
+                        "accuracy": null
+                    },
+                    "penalty": {
+                        "won": null,
+                        "saved": null,
+                        "missed": null,
+                        "scored": null,
+                        "commited": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "dribbles": {
+                        "past": null,
+                        "success": null,
+                        "attempts": null
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    }
+                }
+            },
+            {
+                "player_id": 35792,
+                "team_id": 65,
+                "league_id": 621,
+                "season": 2024,
+                "statistics": {
+                    "cards": {
+                        "red": null,
+                        "yellow": null,
+                        "yellowred": null
+                    },
+                    "duels": {
+                        "won": null,
+                        "total": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "games": {
+                        "number": null,
+                        "rating": null,
+                        "captain": false,
+                        "lineups": null,
+                        "minutes": null,
+                        "position": "Midfielder",
+                        "appearences": null
+                    },
+                    "goals": {
+                        "saves": null,
+                        "total": null,
+                        "assists": null,
+                        "conceded": null
+                    },
+                    "shots": {
+                        "on": null,
+                        "total": null
+                    },
+                    "passes": {
+                        "key": null,
+                        "total": null,
+                        "accuracy": null
+                    },
+                    "penalty": {
+                        "won": null,
+                        "saved": null,
+                        "missed": null,
+                        "scored": null,
+                        "commited": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "dribbles": {
+                        "past": null,
+                        "success": null,
+                        "attempts": null
+                    },
+                    "substitutes": {
+                        "in": null,
+                        "out": null,
+                        "bench": null
+                    }
+                }
+            },
+            {
+                "player_id": 35875,
+                "team_id": 65,
+                "league_id": 621,
+                "season": 2024,
+                "statistics": {
+                    "cards": {
+                        "red": 0,
+                        "yellow": 0,
+                        "yellowred": 0
+                    },
+                    "duels": {
+                        "won": null,
+                        "total": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "games": {
+                        "number": null,
+                        "rating": null,
+                        "captain": false,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "position": "Attacker",
+                        "appearences": 0
+                    },
+                    "goals": {
+                        "saves": null,
+                        "total": 0,
+                        "assists": null,
+                        "conceded": null
+                    },
+                    "shots": {
+                        "on": null,
+                        "total": null
+                    },
+                    "passes": {
+                        "key": null,
+                        "total": null,
+                        "accuracy": null
+                    },
+                    "penalty": {
+                        "won": null,
+                        "saved": null,
+                        "missed": null,
+                        "scored": null,
+                        "commited": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "dribbles": {
+                        "past": null,
+                        "success": null,
+                        "attempts": null
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    }
+                }
+            },
+            {
+                "player_id": 35882,
+                "team_id": 65,
+                "league_id": 621,
+                "season": 2024,
+                "statistics": {
+                    "cards": {
+                        "red": 0,
+                        "yellow": 0,
+                        "yellowred": 0
+                    },
+                    "duels": {
+                        "won": null,
+                        "total": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "games": {
+                        "number": null,
+                        "rating": null,
+                        "captain": false,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "position": "Attacker",
+                        "appearences": 0
+                    },
+                    "goals": {
+                        "saves": null,
+                        "total": 0,
+                        "assists": null,
+                        "conceded": null
+                    },
+                    "shots": {
+                        "on": null,
+                        "total": null
+                    },
+                    "passes": {
+                        "key": null,
+                        "total": null,
+                        "accuracy": null
+                    },
+                    "penalty": {
+                        "won": null,
+                        "saved": null,
+                        "missed": null,
+                        "scored": null,
+                        "commited": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "dribbles": {
+                        "past": null,
+                        "success": null,
+                        "attempts": null
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    }
+                }
+            },
+            {
+                "player_id": 36493,
+                "team_id": 65,
+                "league_id": 621,
+                "season": 2024,
+                "statistics": {
+                    "cards": {
+                        "red": 0,
+                        "yellow": 0,
+                        "yellowred": 0
+                    },
+                    "duels": {
+                        "won": null,
+                        "total": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "games": {
+                        "number": null,
+                        "rating": null,
+                        "captain": false,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "position": "Attacker",
+                        "appearences": 0
+                    },
+                    "goals": {
+                        "saves": null,
+                        "total": 0,
+                        "assists": null,
+                        "conceded": null
+                    },
+                    "shots": {
+                        "on": null,
+                        "total": null
+                    },
+                    "passes": {
+                        "key": null,
+                        "total": null,
+                        "accuracy": null
+                    },
+                    "penalty": {
+                        "won": null,
+                        "saved": null,
+                        "missed": null,
+                        "scored": null,
+                        "commited": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "dribbles": {
+                        "past": null,
+                        "success": null,
+                        "attempts": null
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    }
+                }
+            },
+            {
+                "player_id": 36537,
+                "team_id": 65,
+                "league_id": 621,
+                "season": 2024,
+                "statistics": {
+                    "cards": {
+                        "red": 0,
+                        "yellow": 0,
+                        "yellowred": 0
+                    },
+                    "duels": {
+                        "won": null,
+                        "total": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "games": {
+                        "number": null,
+                        "rating": null,
+                        "captain": false,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "position": "Midfielder",
+                        "appearences": 0
+                    },
+                    "goals": {
+                        "saves": null,
+                        "total": 0,
+                        "assists": null,
+                        "conceded": null
+                    },
+                    "shots": {
+                        "on": null,
+                        "total": null
+                    },
+                    "passes": {
+                        "key": null,
+                        "total": null,
+                        "accuracy": null
+                    },
+                    "penalty": {
+                        "won": null,
+                        "saved": null,
+                        "missed": null,
+                        "scored": null,
+                        "commited": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "dribbles": {
+                        "past": null,
+                        "success": null,
+                        "attempts": null
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    }
+                }
+            },
+            {
+                "player_id": 55579,
+                "team_id": 65,
+                "league_id": 621,
+                "season": 2024,
+                "statistics": {
+                    "cards": {
+                        "red": null,
+                        "yellow": null,
+                        "yellowred": null
+                    },
+                    "duels": {
+                        "won": null,
+                        "total": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "games": {
+                        "number": null,
+                        "rating": null,
+                        "captain": false,
+                        "lineups": null,
+                        "minutes": null,
+                        "position": "Goalkeeper",
+                        "appearences": null
+                    },
+                    "goals": {
+                        "saves": null,
+                        "total": null,
+                        "assists": null,
+                        "conceded": null
+                    },
+                    "shots": {
+                        "on": null,
+                        "total": null
+                    },
+                    "passes": {
+                        "key": null,
+                        "total": null,
+                        "accuracy": null
+                    },
+                    "penalty": {
+                        "won": null,
+                        "saved": null,
+                        "missed": null,
+                        "scored": null,
+                        "commited": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "dribbles": {
+                        "past": null,
+                        "success": null,
+                        "attempts": null
+                    },
+                    "substitutes": {
+                        "in": null,
+                        "out": null,
+                        "bench": null
+                    }
+                }
+            },
+            {
+                "player_id": 59235,
+                "team_id": 65,
+                "league_id": 621,
+                "season": 2024,
+                "statistics": {
+                    "cards": {
+                        "red": 0,
+                        "yellow": 0,
+                        "yellowred": 0
+                    },
+                    "duels": {
+                        "won": null,
+                        "total": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "games": {
+                        "number": null,
+                        "rating": null,
+                        "captain": false,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "position": "Midfielder",
+                        "appearences": 0
+                    },
+                    "goals": {
+                        "saves": null,
+                        "total": 0,
+                        "assists": null,
+                        "conceded": null
+                    },
+                    "shots": {
+                        "on": null,
+                        "total": null
+                    },
+                    "passes": {
+                        "key": null,
+                        "total": null,
+                        "accuracy": null
+                    },
+                    "penalty": {
+                        "won": null,
+                        "saved": null,
+                        "missed": null,
+                        "scored": null,
+                        "commited": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "dribbles": {
+                        "past": null,
+                        "success": null,
+                        "attempts": null
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    }
+                }
+            },
+            {
+                "player_id": 59236,
+                "team_id": 65,
+                "league_id": 621,
+                "season": 2024,
+                "statistics": {
+                    "cards": {
+                        "red": 0,
+                        "yellow": 0,
+                        "yellowred": 0
+                    },
+                    "duels": {
+                        "won": null,
+                        "total": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "games": {
+                        "number": null,
+                        "rating": null,
+                        "captain": false,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "position": "Midfielder",
+                        "appearences": 0
+                    },
+                    "goals": {
+                        "saves": null,
+                        "total": 0,
+                        "assists": null,
+                        "conceded": null
+                    },
+                    "shots": {
+                        "on": null,
+                        "total": null
+                    },
+                    "passes": {
+                        "key": null,
+                        "total": null,
+                        "accuracy": null
+                    },
+                    "penalty": {
+                        "won": null,
+                        "saved": null,
+                        "missed": null,
+                        "scored": null,
+                        "commited": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "dribbles": {
+                        "past": null,
+                        "success": null,
+                        "attempts": null
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    }
+                }
+            },
+            {
+                "player_id": 68110,
+                "team_id": 65,
+                "league_id": 621,
+                "season": 2024,
+                "statistics": {
+                    "cards": {
+                        "red": 0,
+                        "yellow": 0,
+                        "yellowred": 0
+                    },
+                    "duels": {
+                        "won": null,
+                        "total": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "games": {
+                        "number": null,
+                        "rating": null,
+                        "captain": false,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "position": "Defender",
+                        "appearences": 0
+                    },
+                    "goals": {
+                        "saves": null,
+                        "total": 0,
+                        "assists": null,
+                        "conceded": 0
+                    },
+                    "shots": {
+                        "on": null,
+                        "total": null
+                    },
+                    "passes": {
+                        "key": null,
+                        "total": null,
+                        "accuracy": null
+                    },
+                    "penalty": {
+                        "won": null,
+                        "saved": null,
+                        "missed": 0,
+                        "scored": 0,
+                        "commited": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "dribbles": {
+                        "past": null,
+                        "success": null,
+                        "attempts": null
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 1
+                    }
+                }
+            },
+            {
+                "player_id": 68569,
+                "team_id": 65,
+                "league_id": 621,
+                "season": 2024,
+                "statistics": {
+                    "cards": {
+                        "red": null,
+                        "yellow": null,
+                        "yellowred": null
+                    },
+                    "duels": {
+                        "won": null,
+                        "total": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "games": {
+                        "number": null,
+                        "rating": null,
+                        "captain": false,
+                        "lineups": null,
+                        "minutes": null,
+                        "position": "Midfielder",
+                        "appearences": null
+                    },
+                    "goals": {
+                        "saves": null,
+                        "total": null,
+                        "assists": null,
+                        "conceded": null
+                    },
+                    "shots": {
+                        "on": null,
+                        "total": null
+                    },
+                    "passes": {
+                        "key": null,
+                        "total": null,
+                        "accuracy": null
+                    },
+                    "penalty": {
+                        "won": null,
+                        "saved": null,
+                        "missed": null,
+                        "scored": null,
+                        "commited": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "dribbles": {
+                        "past": null,
+                        "success": null,
+                        "attempts": null
+                    },
+                    "substitutes": {
+                        "in": null,
+                        "out": null,
+                        "bench": null
+                    }
+                }
+            },
+            {
+                "player_id": 69051,
+                "team_id": 65,
+                "league_id": 621,
+                "season": 2024,
+                "statistics": {
+                    "cards": {
+                        "red": 0,
+                        "yellow": 0,
+                        "yellowred": 0
+                    },
+                    "duels": {
+                        "won": 5,
+                        "total": 5
+                    },
+                    "fouls": {
+                        "drawn": 3,
+                        "committed": null
+                    },
+                    "games": {
+                        "number": null,
+                        "rating": "6.880000",
+                        "captain": false,
+                        "lineups": 10,
+                        "minutes": 900,
+                        "position": "Goalkeeper",
+                        "appearences": 10
+                    },
+                    "goals": {
+                        "saves": 27,
+                        "total": 0,
+                        "assists": 0,
+                        "conceded": 12
+                    },
+                    "shots": {
+                        "on": null,
+                        "total": null
+                    },
+                    "passes": {
+                        "key": null,
+                        "total": 332,
+                        "accuracy": null
+                    },
+                    "penalty": {
+                        "won": null,
+                        "saved": 0,
+                        "missed": 0,
+                        "scored": 0,
+                        "commited": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "dribbles": {
+                        "past": null,
+                        "success": 1,
+                        "attempts": 1
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 27
+                    }
+                }
+            },
+            {
+                "player_id": 69052,
+                "team_id": 65,
+                "league_id": 621,
+                "season": 2024,
+                "statistics": {
+                    "cards": {
+                        "red": 0,
+                        "yellow": 0,
+                        "yellowred": 0
+                    },
+                    "duels": {
+                        "won": null,
+                        "total": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "games": {
+                        "number": null,
+                        "rating": null,
+                        "captain": false,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "position": "Midfielder",
+                        "appearences": 0
+                    },
+                    "goals": {
+                        "saves": null,
+                        "total": 0,
+                        "assists": null,
+                        "conceded": 0
+                    },
+                    "shots": {
+                        "on": null,
+                        "total": null
+                    },
+                    "passes": {
+                        "key": null,
+                        "total": null,
+                        "accuracy": null
+                    },
+                    "penalty": {
+                        "won": null,
+                        "saved": null,
+                        "missed": 0,
+                        "scored": 0,
+                        "commited": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "dribbles": {
+                        "past": null,
+                        "success": null,
+                        "attempts": null
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 4
+                    }
+                }
+            },
+            {
+                "player_id": 74241,
+                "team_id": 65,
+                "league_id": 621,
+                "season": 2024,
+                "statistics": {
+                    "cards": {
+                        "red": 0,
+                        "yellow": 0,
+                        "yellowred": 0
+                    },
+                    "duels": {
+                        "won": null,
+                        "total": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "games": {
+                        "number": null,
+                        "rating": null,
+                        "captain": false,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "position": "Defender",
+                        "appearences": 0
+                    },
+                    "goals": {
+                        "saves": null,
+                        "total": 0,
+                        "assists": null,
+                        "conceded": null
+                    },
+                    "shots": {
+                        "on": null,
+                        "total": null
+                    },
+                    "passes": {
+                        "key": null,
+                        "total": null,
+                        "accuracy": null
+                    },
+                    "penalty": {
+                        "won": null,
+                        "saved": null,
+                        "missed": null,
+                        "scored": null,
+                        "commited": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "dribbles": {
+                        "past": null,
+                        "success": null,
+                        "attempts": null
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    }
+                }
+            },
+            {
+                "player_id": 74254,
+                "team_id": 65,
+                "league_id": 621,
+                "season": 2024,
+                "statistics": {
+                    "cards": {
+                        "red": null,
+                        "yellow": null,
+                        "yellowred": null
+                    },
+                    "duels": {
+                        "won": null,
+                        "total": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "games": {
+                        "number": null,
+                        "rating": null,
+                        "captain": false,
+                        "lineups": null,
+                        "minutes": null,
+                        "position": "Defender",
+                        "appearences": null
+                    },
+                    "goals": {
+                        "saves": null,
+                        "total": null,
+                        "assists": null,
+                        "conceded": null
+                    },
+                    "shots": {
+                        "on": null,
+                        "total": null
+                    },
+                    "passes": {
+                        "key": null,
+                        "total": null,
+                        "accuracy": null
+                    },
+                    "penalty": {
+                        "won": null,
+                        "saved": null,
+                        "missed": null,
+                        "scored": null,
+                        "commited": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "dribbles": {
+                        "past": null,
+                        "success": null,
+                        "attempts": null
+                    },
+                    "substitutes": {
+                        "in": null,
+                        "out": null,
+                        "bench": null
+                    }
+                }
+            },
+            {
+                "player_id": 74261,
+                "team_id": 65,
+                "league_id": 621,
+                "season": 2024,
+                "statistics": {
+                    "cards": {
+                        "red": null,
+                        "yellow": null,
+                        "yellowred": null
+                    },
+                    "duels": {
+                        "won": null,
+                        "total": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "games": {
+                        "number": null,
+                        "rating": null,
+                        "captain": false,
+                        "lineups": null,
+                        "minutes": null,
+                        "position": "Defender",
+                        "appearences": null
+                    },
+                    "goals": {
+                        "saves": null,
+                        "total": null,
+                        "assists": null,
+                        "conceded": null
+                    },
+                    "shots": {
+                        "on": null,
+                        "total": null
+                    },
+                    "passes": {
+                        "key": null,
+                        "total": null,
+                        "accuracy": null
+                    },
+                    "penalty": {
+                        "won": null,
+                        "saved": null,
+                        "missed": null,
+                        "scored": null,
+                        "commited": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "dribbles": {
+                        "past": null,
+                        "success": null,
+                        "attempts": null
+                    },
+                    "substitutes": {
+                        "in": null,
+                        "out": null,
+                        "bench": null
+                    }
+                }
+            },
+            {
+                "player_id": 74361,
+                "team_id": 65,
+                "league_id": 621,
+                "season": 2024,
+                "statistics": {
+                    "cards": {
+                        "red": 0,
+                        "yellow": 0,
+                        "yellowred": 0
+                    },
+                    "duels": {
+                        "won": null,
+                        "total": 2
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "games": {
+                        "number": null,
+                        "rating": "6.300000",
+                        "captain": false,
+                        "lineups": 0,
+                        "minutes": 10,
+                        "position": "Attacker",
+                        "appearences": 1
+                    },
+                    "goals": {
+                        "saves": null,
+                        "total": 0,
+                        "assists": 0,
+                        "conceded": 0
+                    },
+                    "shots": {
+                        "on": null,
+                        "total": null
+                    },
+                    "passes": {
+                        "key": null,
+                        "total": 1,
+                        "accuracy": null
+                    },
+                    "penalty": {
+                        "won": null,
+                        "saved": null,
+                        "missed": 0,
+                        "scored": 0,
+                        "commited": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "dribbles": {
+                        "past": null,
+                        "success": null,
+                        "attempts": null
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 0,
+                        "bench": 2
+                    }
+                }
+            },
+            {
+                "player_id": 74972,
+                "team_id": 65,
+                "league_id": 621,
+                "season": 2024,
+                "statistics": {
+                    "cards": {
+                        "red": 0,
+                        "yellow": 0,
+                        "yellowred": 0
+                    },
+                    "duels": {
+                        "won": null,
+                        "total": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "games": {
+                        "number": null,
+                        "rating": null,
+                        "captain": false,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "position": "Attacker",
+                        "appearences": 0
+                    },
+                    "goals": {
+                        "saves": null,
+                        "total": 0,
+                        "assists": null,
+                        "conceded": null
+                    },
+                    "shots": {
+                        "on": null,
+                        "total": null
+                    },
+                    "passes": {
+                        "key": null,
+                        "total": null,
+                        "accuracy": null
+                    },
+                    "penalty": {
+                        "won": null,
+                        "saved": null,
+                        "missed": null,
+                        "scored": null,
+                        "commited": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "dribbles": {
+                        "past": null,
+                        "success": null,
+                        "attempts": null
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    }
+                }
+            },
+            {
+                "player_id": 74973,
+                "team_id": 65,
+                "league_id": 621,
+                "season": 2024,
+                "statistics": {
+                    "cards": {
+                        "red": 0,
+                        "yellow": 0,
+                        "yellowred": 0
+                    },
+                    "duels": {
+                        "won": null,
+                        "total": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "games": {
+                        "number": null,
+                        "rating": null,
+                        "captain": false,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "position": "Attacker",
+                        "appearences": 0
+                    },
+                    "goals": {
+                        "saves": null,
+                        "total": 0,
+                        "assists": null,
+                        "conceded": null
+                    },
+                    "shots": {
+                        "on": null,
+                        "total": null
+                    },
+                    "passes": {
+                        "key": null,
+                        "total": null,
+                        "accuracy": null
+                    },
+                    "penalty": {
+                        "won": null,
+                        "saved": null,
+                        "missed": null,
+                        "scored": null,
+                        "commited": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "dribbles": {
+                        "past": null,
+                        "success": null,
+                        "attempts": null
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    }
+                }
+            },
+            {
+                "player_id": 79079,
+                "team_id": 65,
+                "league_id": 621,
+                "season": 2024,
+                "statistics": {
+                    "cards": {
+                        "red": null,
+                        "yellow": null,
+                        "yellowred": null
+                    },
+                    "duels": {
+                        "won": null,
+                        "total": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "games": {
+                        "number": null,
+                        "rating": null,
+                        "captain": false,
+                        "lineups": null,
+                        "minutes": null,
+                        "position": "Defender",
+                        "appearences": null
+                    },
+                    "goals": {
+                        "saves": null,
+                        "total": null,
+                        "assists": null,
+                        "conceded": null
+                    },
+                    "shots": {
+                        "on": null,
+                        "total": null
+                    },
+                    "passes": {
+                        "key": null,
+                        "total": null,
+                        "accuracy": null
+                    },
+                    "penalty": {
+                        "won": null,
+                        "saved": null,
+                        "missed": null,
+                        "scored": null,
+                        "commited": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "dribbles": {
+                        "past": null,
+                        "success": null,
+                        "attempts": null
+                    },
+                    "substitutes": {
+                        "in": null,
+                        "out": null,
+                        "bench": null
+                    }
+                }
+            }
+        ]
+    }
+}

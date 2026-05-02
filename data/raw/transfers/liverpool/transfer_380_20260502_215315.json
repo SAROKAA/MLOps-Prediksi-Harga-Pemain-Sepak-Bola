@@ -1,0 +1,70 @@
+{
+    "team": "liverpool",
+    "player_id": "380",
+    "data": {
+        "status": "success",
+        "pagination": {
+            "total_count": 6,
+            "page_size": 120,
+            "page_count": 1,
+            "current_page": 1
+        },
+        "errors": null,
+        "response": [
+            {
+                "transfer_id": 163852,
+                "player_id": 380,
+                "in_team_id": 65,
+                "out_team_id": 401,
+                "date": "2017-07-01",
+                "type": "\u20ac 42M",
+                "update_date": "2025-07-29 11:43:06"
+            },
+            {
+                "transfer_id": 168911,
+                "player_id": 380,
+                "in_team_id": 401,
+                "out_team_id": 60,
+                "date": "2016-07-01",
+                "type": "\u20ac 15M",
+                "update_date": "2025-07-29 11:43:06"
+            },
+            {
+                "transfer_id": 168912,
+                "player_id": 380,
+                "in_team_id": 401,
+                "out_team_id": 60,
+                "date": "2015-08-06",
+                "type": "Loan",
+                "update_date": "2025-07-29 11:43:06"
+            },
+            {
+                "transfer_id": 168913,
+                "player_id": 380,
+                "in_team_id": 403,
+                "out_team_id": 60,
+                "date": "2015-02-02",
+                "type": "Loan",
+                "update_date": "2025-07-29 11:43:06"
+            },
+            {
+                "transfer_id": 168914,
+                "player_id": 380,
+                "in_team_id": 60,
+                "out_team_id": 460,
+                "date": "2014-01-26",
+                "type": "\u20ac 13.2M",
+                "update_date": "2025-07-29 11:43:06"
+            },
+            {
+                "transfer_id": 290526,
+                "player_id": 380,
+                "in_team_id": 460,
+                "out_team_id": 9189,
+                "date": "2012-07-01",
+                "type": "\u20ac 2.5M",
+                "update_date": "2025-07-29 11:43:06"
+            }
+        ]
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "team": "Arsenal",
+    "player_id": "13620",
+    "data": {
+        "status": "success",
+        "pagination": {
+            "total_count": 8,
+            "page_size": 120,
+            "page_count": 1,
+            "current_page": 1
+        },
+        "errors": null,
+        "response": [
+            {
+                "transfer_id": 1190842,
+                "player_id": 13620,
+                "in_team_id": 9182,
+                "out_team_id": 55,
+                "date": "2025-08-07",
+                "type": "Free agent",
+                "update_date": "2025-12-29 00:07:35"
+            },
+            {
+                "transfer_id": 161270,
+                "player_id": 13620,
+                "in_team_id": 55,
+                "out_team_id": 69,
+                "date": "2025-07-01",
+                "type": "Back from Loan",
+                "update_date": "2025-08-11 00:25:46"
+            },
+            {
+                "transfer_id": 161268,
+                "player_id": 13620,
+                "in_team_id": 69,
+                "out_team_id": 55,
+                "date": "2024-08-30",
+                "type": "Loan",
+                "update_date": "2025-08-11 00:25:46"
+            },
+            {
+                "transfer_id": 161269,
+                "player_id": 13620,
+                "in_team_id": 55,
+                "out_team_id": 440,
+                "date": "2022-08-07",
+                "type": "Free",
+                "update_date": "2025-07-29 11:37:26"
+            },
+            {
+                "transfer_id": 269116,
+                "player_id": 13620,
+                "in_team_id": 440,
+                "out_team_id": 446,
+                "date": "2019-07-01",
+                "type": "\u20ac 26M",
+                "update_date": "2025-07-29 11:37:26"
+            },
+            {
+                "transfer_id": 270907,
+                "player_id": 13620,
+                "in_team_id": 446,
+                "out_team_id": 416,
+                "date": "2017-07-07",
+                "type": "\u20ac 7M",
+                "update_date": "2025-07-29 11:37:26"
+            },
+            {
+                "transfer_id": 302441,
+                "player_id": 13620,
+                "in_team_id": 416,
+                "out_team_id": 403,
+                "date": "2015-07-03",
+                "type": "Free",
+                "update_date": "2025-07-29 11:37:26"
+            },
+            {
+                "transfer_id": 306078,
+                "player_id": 13620,
+                "in_team_id": 403,
+                "out_team_id": 9783,
+                "date": "2011-01-05",
+                "type": "\u20ac 3.5M",
+                "update_date": "2025-07-29 11:37:26"
+            }
+        ]
+    }
+}

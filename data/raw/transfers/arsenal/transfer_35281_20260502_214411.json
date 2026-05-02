@@ -1,0 +1,79 @@
+{
+    "team": "Arsenal",
+    "player_id": "35281",
+    "data": {
+        "status": "success",
+        "pagination": {
+            "total_count": 7,
+            "page_size": 120,
+            "page_count": 1,
+            "current_page": 1
+        },
+        "errors": null,
+        "response": [
+            {
+                "transfer_id": 1783619,
+                "player_id": 35281,
+                "in_team_id": 1079,
+                "out_team_id": 69,
+                "date": "2026-01-29",
+                "type": "Transfer",
+                "update_date": "2026-04-27 00:42:31"
+            },
+            {
+                "transfer_id": 1783620,
+                "player_id": 35281,
+                "in_team_id": 69,
+                "out_team_id": 1081,
+                "date": "2026-01-28",
+                "type": "Return from loan",
+                "update_date": "2026-04-27 00:42:31"
+            },
+            {
+                "transfer_id": 1512009,
+                "player_id": 35281,
+                "in_team_id": 69,
+                "out_team_id": 1081,
+                "date": "2025-12-30",
+                "type": "Return from loan",
+                "update_date": "2026-04-27 00:42:31"
+            },
+            {
+                "transfer_id": 1117218,
+                "player_id": 35281,
+                "in_team_id": 1081,
+                "out_team_id": 69,
+                "date": "2025-09-17",
+                "type": "Loan",
+                "update_date": "2026-04-27 00:42:31"
+            },
+            {
+                "transfer_id": 165448,
+                "player_id": 35281,
+                "in_team_id": 69,
+                "out_team_id": 2508,
+                "date": "2025-07-01",
+                "type": "Back from Loan",
+                "update_date": "2025-11-10 00:16:21"
+            },
+            {
+                "transfer_id": 165447,
+                "player_id": 35281,
+                "in_team_id": 2508,
+                "out_team_id": 69,
+                "date": "2025-02-03",
+                "type": "Loan",
+                "update_date": "2025-11-10 00:16:21"
+            },
+            {
+                "transfer_id": 1190883,
+                "player_id": 35281,
+                "in_team_id": 4521,
+                "out_team_id": 57,
+                "date": "2022-04-04",
+                "type": "-",
+                "update_date": "2026-01-26 02:06:01"
+            }
+        ]
+    }
+}

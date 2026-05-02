@@ -1,0 +1,34 @@
+{
+    "team": "manchester_city",
+    "player_id": "2424",
+    "data": {
+        "status": "success",
+        "pagination": {
+            "total_count": 2,
+            "page_size": 120,
+            "page_count": 1,
+            "current_page": 1
+        },
+        "errors": null,
+        "response": [
+            {
+                "transfer_id": 79859,
+                "player_id": 2424,
+                "in_team_id": 70,
+                "out_team_id": 104,
+                "date": "2023-08-24",
+                "type": "\u20ac 60M",
+                "update_date": "2025-07-29 11:42:36"
+            },
+            {
+                "transfer_id": 47363,
+                "player_id": 2424,
+                "in_team_id": 104,
+                "out_team_id": 464,
+                "date": "2020-10-05",
+                "type": "N/A",
+                "update_date": "2025-07-29 11:42:36"
+            }
+        ]
+    }
+}

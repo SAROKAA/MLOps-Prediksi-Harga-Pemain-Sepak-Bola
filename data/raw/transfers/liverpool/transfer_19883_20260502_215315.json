@@ -1,0 +1,25 @@
+{
+    "team": "liverpool",
+    "player_id": "19883",
+    "data": {
+        "status": "success",
+        "pagination": {
+            "total_count": 1,
+            "page_size": 120,
+            "page_count": 1,
+            "current_page": 1
+        },
+        "errors": null,
+        "response": [
+            {
+                "transfer_id": 163864,
+                "player_id": 19883,
+                "in_team_id": 65,
+                "out_team_id": 1046,
+                "date": "2015-07-01",
+                "type": "N/A",
+                "update_date": "2025-07-29 11:43:28"
+            }
+        ]
+    }
+}

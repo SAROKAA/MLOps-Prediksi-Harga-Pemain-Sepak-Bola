@@ -1,0 +1,106 @@
+{
+    "team": "manchester_city",
+    "player_id": "27044",
+    "data": {
+        "status": "success",
+        "pagination": {
+            "total_count": 10,
+            "page_size": 120,
+            "page_count": 1,
+            "current_page": 1
+        },
+        "errors": null,
+        "response": [
+            {
+                "transfer_id": 107451,
+                "player_id": 27044,
+                "in_team_id": 70,
+                "out_team_id": 324,
+                "date": "2025-07-01",
+                "type": "N/A",
+                "update_date": "2025-07-29 10:35:31"
+            },
+            {
+                "transfer_id": 766265,
+                "player_id": 27044,
+                "in_team_id": 4530,
+                "out_team_id": 324,
+                "date": "2025-06-29",
+                "type": "Return from loan",
+                "update_date": "2026-04-27 03:55:58"
+            },
+            {
+                "transfer_id": 107450,
+                "player_id": 27044,
+                "in_team_id": 324,
+                "out_team_id": 70,
+                "date": "2025-01-12",
+                "type": "Loan",
+                "update_date": "2025-07-29 10:35:31"
+            },
+            {
+                "transfer_id": 169802,
+                "player_id": 27044,
+                "in_team_id": 70,
+                "out_team_id": 776,
+                "date": "2025-01-11",
+                "type": "N/A",
+                "update_date": "2026-04-27 03:55:58"
+            },
+            {
+                "transfer_id": 583678,
+                "player_id": 27044,
+                "in_team_id": 70,
+                "out_team_id": 1884,
+                "date": "2025-01-11",
+                "type": "Back from Loan",
+                "update_date": "2025-07-07 00:20:48"
+            },
+            {
+                "transfer_id": 1187905,
+                "player_id": 27044,
+                "in_team_id": 324,
+                "out_team_id": 4530,
+                "date": "2025-01-11",
+                "type": "Loan",
+                "update_date": "2026-04-27 03:55:58"
+            },
+            {
+                "transfer_id": 1191390,
+                "player_id": 27044,
+                "in_team_id": 4530,
+                "out_team_id": 776,
+                "date": "2025-01-10",
+                "type": "Return from loan",
+                "update_date": "2026-04-27 03:55:58"
+            },
+            {
+                "transfer_id": 169801,
+                "player_id": 27044,
+                "in_team_id": 776,
+                "out_team_id": 70,
+                "date": "2024-08-07",
+                "type": "Loan",
+                "update_date": "2026-04-27 03:55:58"
+            },
+            {
+                "transfer_id": 1191391,
+                "player_id": 27044,
+                "in_team_id": 776,
+                "out_team_id": 4530,
+                "date": "2024-08-06",
+                "type": "Loan",
+                "update_date": "2026-04-27 03:55:58"
+            },
+            {
+                "transfer_id": 1191492,
+                "player_id": 27044,
+                "in_team_id": 4530,
+                "out_team_id": 61,
+                "date": "2021-06-30",
+                "type": "-",
+                "update_date": "2026-04-27 03:55:58"
+            }
+        ]
+    }
+}

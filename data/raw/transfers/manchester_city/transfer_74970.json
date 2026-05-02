@@ -1,0 +1,70 @@
+{
+    "team": "manchester_city",
+    "player_id": "74970",
+    "data": {
+        "status": "success",
+        "pagination": {
+            "total_count": 6,
+            "page_size": 120,
+            "page_count": 1,
+            "current_page": 1
+        },
+        "errors": null,
+        "response": [
+            {
+                "transfer_id": 712464,
+                "player_id": 74970,
+                "in_team_id": 699,
+                "out_team_id": 70,
+                "date": "2025-07-17",
+                "type": "Transfer",
+                "update_date": "2026-02-09 00:21:14"
+            },
+            {
+                "transfer_id": 169726,
+                "player_id": 74970,
+                "in_team_id": 70,
+                "out_team_id": 699,
+                "date": "2025-06-29",
+                "type": "Return from loan",
+                "update_date": "2026-02-09 00:21:14"
+            },
+            {
+                "transfer_id": 169722,
+                "player_id": 74970,
+                "in_team_id": 699,
+                "out_team_id": 70,
+                "date": "2024-08-25",
+                "type": "Loan",
+                "update_date": "2026-02-09 00:21:14"
+            },
+            {
+                "transfer_id": 169723,
+                "player_id": 74970,
+                "in_team_id": 70,
+                "out_team_id": 450,
+                "date": "2024-07-01",
+                "type": "N/A",
+                "update_date": "2025-07-29 10:57:14"
+            },
+            {
+                "transfer_id": 169724,
+                "player_id": 74970,
+                "in_team_id": 450,
+                "out_team_id": 70,
+                "date": "2023-08-23",
+                "type": "Loan",
+                "update_date": "2025-07-29 10:57:14"
+            },
+            {
+                "transfer_id": 169725,
+                "player_id": 74970,
+                "in_team_id": 70,
+                "out_team_id": 10916,
+                "date": "2023-01-23",
+                "type": "\u20ac 11M",
+                "update_date": "2025-07-29 10:57:14"
+            }
+        ]
+    }
+}

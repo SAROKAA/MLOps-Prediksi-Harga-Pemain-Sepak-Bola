@@ -1,0 +1,61 @@
+{
+    "team": "Arsenal",
+    "player_id": "8284",
+    "data": {
+        "status": "success",
+        "pagination": {
+            "total_count": 5,
+            "page_size": 120,
+            "page_count": 1,
+            "current_page": 1
+        },
+        "errors": null,
+        "response": [
+            {
+                "transfer_id": 861765,
+                "player_id": 8284,
+                "in_team_id": 448,
+                "out_team_id": 69,
+                "date": "2025-08-07",
+                "type": "Free Transfer",
+                "update_date": "2026-03-09 00:50:13"
+            },
+            {
+                "transfer_id": 165113,
+                "player_id": 8284,
+                "in_team_id": 69,
+                "out_team_id": 442,
+                "date": "2020-10-05",
+                "type": "\u20ac 50M",
+                "update_date": "2025-06-02 05:07:53"
+            },
+            {
+                "transfer_id": 269833,
+                "player_id": 8284,
+                "in_team_id": 442,
+                "out_team_id": 532,
+                "date": "2015-07-01",
+                "type": "N/A",
+                "update_date": "2025-06-02 05:07:53"
+            },
+            {
+                "transfer_id": 269834,
+                "player_id": 8284,
+                "in_team_id": 532,
+                "out_team_id": 442,
+                "date": "2014-07-28",
+                "type": "Loan",
+                "update_date": "2025-06-02 05:07:53"
+            },
+            {
+                "transfer_id": 269835,
+                "player_id": 8284,
+                "in_team_id": 624,
+                "out_team_id": 442,
+                "date": "2013-07-12",
+                "type": "Loan",
+                "update_date": "2025-06-02 05:07:53"
+            }
+        ]
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "team": "manchester_city",
+    "player_id": "24576",
+    "data": {
+        "status": "success",
+        "pagination": {
+            "total_count": 7,
+            "page_size": 120,
+            "page_count": 1,
+            "current_page": 1
+        },
+        "errors": null,
+        "response": [
+            {
+                "transfer_id": 1027558,
+                "player_id": 24576,
+                "in_team_id": 2273,
+                "out_team_id": 70,
+                "date": "2025-09-08",
+                "type": "Loan",
+                "update_date": "2026-04-27 02:39:33"
+            },
+            {
+                "transfer_id": 169924,
+                "player_id": 24576,
+                "in_team_id": 70,
+                "out_team_id": 92,
+                "date": "2025-07-01",
+                "type": "Back from Loan",
+                "update_date": "2025-11-10 00:17:38"
+            },
+            {
+                "transfer_id": 169923,
+                "player_id": 24576,
+                "in_team_id": 92,
+                "out_team_id": 70,
+                "date": "2025-01-22",
+                "type": "Loan",
+                "update_date": "2025-11-10 00:17:38"
+            },
+            {
+                "transfer_id": 169920,
+                "player_id": 24576,
+                "in_team_id": 70,
+                "out_team_id": 56,
+                "date": "2024-06-01",
+                "type": "N/A",
+                "update_date": "2025-07-29 11:43:03"
+            },
+            {
+                "transfer_id": 169921,
+                "player_id": 24576,
+                "in_team_id": 56,
+                "out_team_id": 70,
+                "date": "2024-02-01",
+                "type": "Loan",
+                "update_date": "2025-07-29 11:43:03"
+            },
+            {
+                "transfer_id": 79316,
+                "player_id": 24576,
+                "in_team_id": 108,
+                "out_team_id": 70,
+                "date": "2023-07-23",
+                "type": "Loan",
+                "update_date": "2026-04-27 02:39:33"
+            },
+            {
+                "transfer_id": 169922,
+                "player_id": 24576,
+                "in_team_id": 1057,
+                "out_team_id": 70,
+                "date": "2023-01-10",
+                "type": "Loan",
+                "update_date": "2025-07-29 11:43:03"
+            }
+        ]
+    }
+}

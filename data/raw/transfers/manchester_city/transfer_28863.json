@@ -1,0 +1,70 @@
+{
+    "team": "manchester_city",
+    "player_id": "28863",
+    "data": {
+        "status": "success",
+        "pagination": {
+            "total_count": 6,
+            "page_size": 120,
+            "page_count": 1,
+            "current_page": 1
+        },
+        "errors": null,
+        "response": [
+            {
+                "transfer_id": 907856,
+                "player_id": 28863,
+                "in_team_id": 78,
+                "out_team_id": 70,
+                "date": "2025-08-16",
+                "type": "Transfer",
+                "update_date": "2026-01-19 00:17:06"
+            },
+            {
+                "transfer_id": 1061650,
+                "player_id": 28863,
+                "in_team_id": 5334,
+                "out_team_id": 70,
+                "date": "2025-08-16",
+                "type": "Transfer",
+                "update_date": "2026-01-19 00:17:06"
+            },
+            {
+                "transfer_id": 169840,
+                "player_id": 28863,
+                "in_team_id": 70,
+                "out_team_id": 89,
+                "date": "2024-06-01",
+                "type": "N/A",
+                "update_date": "2025-07-29 11:42:46"
+            },
+            {
+                "transfer_id": 169841,
+                "player_id": 28863,
+                "in_team_id": 89,
+                "out_team_id": 70,
+                "date": "2023-09-01",
+                "type": "Loan",
+                "update_date": "2025-07-29 11:42:46"
+            },
+            {
+                "transfer_id": 169842,
+                "player_id": 28863,
+                "in_team_id": 70,
+                "out_team_id": 89,
+                "date": "2023-07-01",
+                "type": "N/A",
+                "update_date": "2025-07-29 11:42:46"
+            },
+            {
+                "transfer_id": 169843,
+                "player_id": 28863,
+                "in_team_id": 89,
+                "out_team_id": 70,
+                "date": "2022-08-04",
+                "type": "Loan",
+                "update_date": "2025-07-29 11:42:46"
+            }
+        ]
+    }
+}

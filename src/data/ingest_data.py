@@ -7,62 +7,80 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-def fetch_all_football_data():
-    api_key = os.getenv("FOOTBALL_API_KEY")
-    url = "https://v3.football.api-sports.io/players"
-    headers = {"x-apisports-key": api_key}
+def ingest_premier_league_stats():
+    api_key = os.getenv("RAPIDAPI_KEY") 
     
-    all_responses = []
-    current_page = 1
-    total_pages = 1 # Default awal
+    if not api_key:
+        print("❌ Error: API_KEY tidak ditemukan di file .env")
+        return
 
-    # Poin 3 Tugas Dosen: Timestamp untuk nama file
+    url = "https://live-football-api.p.rapidapi.com/player-statistics"
+    league_id = "621" 
+    season = "2024"
+    
+    headers = {
+        "x-rapidapi-key": api_key,
+        "x-rapidapi-host": "live-football-api.p.rapidapi.com",
+        "Content-Type": "application/json"
+    }
+
+    # 2. Dictionary Tim dengan ID yang sudah divalidasi (Corrected IDs)
+    teams = {
+        "69": "Arsenal",
+        "70": "Manchester City",
+        "65": "Liverpool",
+        "51": "Manchester United",
+        "60": "Chelsea",
+        "54": "Tottenham Hotspur",
+        "53": "Newcastle United",
+        "94": "Aston Villa",
+        "62": "Brighton"
+    }
+
     timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-    
-    print(f"Memulai Ingestion (Batch: {timestamp})...")
+    print(f"🚀 Memulai Ingestion Batch Premier League - {timestamp}")
 
-    while current_page <= total_pages:
-        query = {"league": "39", "season": "2024", "page": str(current_page)}
+    for team_id, team_name in teams.items():
+        print(f"🔍 Fetching data: {team_name} (ID: {team_id})...")
+        
+        querystring = {
+            "season": season, 
+            "league_id": league_id, 
+            "team_id": team_id
+        }
         
         try:
-            response = requests.get(url, headers=headers, params=query, timeout=15)
+            response = requests.get(url, headers=headers, params=querystring, timeout=15)
             response.raise_for_status()
             data = response.json()
 
-            if data.get('errors'):
-                error_msg = str(data['errors'])
-                if 'plan' in error_msg.lower() or 'limit' in error_msg.lower():
-                    print(f"🛑 Berhenti: Mencapai batas maksimal paket (Halaman {current_page-1}).")
-                    break
-            # Ambil info total halaman dari respon pertama
-            if current_page == 1:
-                total_pages = data.get('paging', {}).get('total', 1)
-                print(f"Terdeteksi total {total_pages} halaman.")
+            # 3. Persistence ke Landing Zone/Raw Layer (ABD04) [cite: 71, 84, 123]
+            folder_path = os.path.join('data', 'raw', f'league_{league_id}')
+            os.makedirs(folder_path, exist_ok=True)
 
-            all_responses.extend(data.get('response', []))
-            print(f"✅ Berhasil menarik halaman {current_page}/{total_pages}")
+            filename = f"stats_{team_name.lower().replace(' ', '_')}.json"
+            save_path = os.path.join(folder_path, filename)
+
+            with open(save_path, 'w') as f:
+                json.dump({
+                    "metadata": {
+                        "ingested_at": timestamp,
+                        "team_id": team_id,
+                        "team_name": team_name,
+                        "source": "RapidAPI-Live-Football"
+                    },
+                    "content": data
+                }, f, indent=4)
+
+            print(f"✅ Berhasil simpan {team_name}")
             
-            current_page += 1
-            
-            # Jeda sedikit biar gak kena rate limit API (Safety First)
+            # 4. Velocity Management (ABD02) [cite: 55, 72]
             time.sleep(2) 
 
         except Exception as e:
-            print(f"Error pada halaman {current_page}: {e}")
-            break
+            print(f"❌ Gagal mengambil data {team_name}: {e}")
 
-    # Simpan semua data yang terkumpul ke satu file bertanda waktu
-    if all_responses:
-        save_path = os.path.join('data', 'raw', f'players_raw_{timestamp}.json')
-        os.makedirs(os.path.dirname(save_path), exist_ok=True)
-        
-        with open(save_path, 'w') as f:
-            json.dump({"response": all_responses}, f)
-            
-        print(f"\nSelesai! {len(all_responses)} pemain disimpan di: {save_path}")
-        return save_path
-    
-    return None
+    print("\n🏁 Ingestion Selesai! Semua data tim kini ada di Landing Zone.")
 
 if __name__ == "__main__":
-    fetch_all_football_data()
+    ingest_premier_league_stats()

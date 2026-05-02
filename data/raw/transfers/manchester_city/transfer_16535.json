@@ -1,0 +1,88 @@
+{
+    "team": "manchester_city",
+    "player_id": "16535",
+    "data": {
+        "status": "success",
+        "pagination": {
+            "total_count": 8,
+            "page_size": 120,
+            "page_count": 1,
+            "current_page": 1
+        },
+        "errors": null,
+        "response": [
+            {
+                "transfer_id": 907809,
+                "player_id": 16535,
+                "in_team_id": 68,
+                "out_team_id": 70,
+                "date": "2025-07-05",
+                "type": "Transfer",
+                "update_date": "2026-02-02 00:16:11"
+            },
+            {
+                "transfer_id": 169728,
+                "player_id": 16535,
+                "in_team_id": 70,
+                "out_team_id": 402,
+                "date": "2025-06-29",
+                "type": "Return from loan",
+                "update_date": "2026-01-19 00:16:54"
+            },
+            {
+                "transfer_id": 169727,
+                "player_id": 16535,
+                "in_team_id": 402,
+                "out_team_id": 70,
+                "date": "2025-01-24",
+                "type": "Loan",
+                "update_date": "2026-01-19 00:16:54"
+            },
+            {
+                "transfer_id": 167167,
+                "player_id": 16535,
+                "in_team_id": 70,
+                "out_team_id": 54,
+                "date": "2017-07-14",
+                "type": "\u20ac 51M",
+                "update_date": "2026-02-02 00:16:11"
+            },
+            {
+                "transfer_id": 167168,
+                "player_id": 16535,
+                "in_team_id": 84,
+                "out_team_id": 54,
+                "date": "2010-09-13",
+                "type": "Loan",
+                "update_date": "2025-06-01 13:14:17"
+            },
+            {
+                "transfer_id": 167169,
+                "player_id": 16535,
+                "in_team_id": 89,
+                "out_team_id": 54,
+                "date": "2009-07-24",
+                "type": "Loan",
+                "update_date": "2025-06-01 13:14:17"
+            },
+            {
+                "transfer_id": 167170,
+                "player_id": 16535,
+                "in_team_id": 54,
+                "out_team_id": 89,
+                "date": "2009-07-22",
+                "type": "\u20ac 5.9M",
+                "update_date": "2025-06-01 13:14:17"
+            },
+            {
+                "transfer_id": 183968,
+                "player_id": 16535,
+                "in_team_id": 1050,
+                "out_team_id": 89,
+                "date": "2008-11-13",
+                "type": "Loan",
+                "update_date": "2025-06-01 13:14:17"
+            }
+        ]
+    }
+}

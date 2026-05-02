@@ -1,0 +1,70 @@
+{
+    "team": "manchester_city",
+    "player_id": "390",
+    "data": {
+        "status": "success",
+        "pagination": {
+            "total_count": 6,
+            "page_size": 120,
+            "page_count": 1,
+            "current_page": 1
+        },
+        "errors": null,
+        "response": [
+            {
+                "transfer_id": 590903,
+                "player_id": 390,
+                "in_team_id": 408,
+                "out_team_id": 70,
+                "date": "2025-07-01",
+                "type": "Free Transfer",
+                "update_date": "2026-01-19 00:26:26"
+            },
+            {
+                "transfer_id": 139255,
+                "player_id": 390,
+                "in_team_id": 70,
+                "out_team_id": 143,
+                "date": "2015-08-30",
+                "type": "\u20ac 74M",
+                "update_date": "2026-01-19 00:26:26"
+            },
+            {
+                "transfer_id": 139256,
+                "player_id": 390,
+                "in_team_id": 143,
+                "out_team_id": 60,
+                "date": "2014-01-18",
+                "type": "\u20ac 21.5M",
+                "update_date": "2025-07-29 11:03:49"
+            },
+            {
+                "transfer_id": 139729,
+                "player_id": 390,
+                "in_team_id": 145,
+                "out_team_id": 60,
+                "date": "2012-08-01",
+                "type": "Loan",
+                "update_date": "2025-07-29 11:03:49"
+            },
+            {
+                "transfer_id": 51869,
+                "player_id": 390,
+                "in_team_id": 60,
+                "out_team_id": 545,
+                "date": "2012-01-31",
+                "type": "\u20ac 8M",
+                "update_date": "2025-07-29 11:03:49"
+            },
+            {
+                "transfer_id": 51868,
+                "player_id": 390,
+                "in_team_id": 545,
+                "out_team_id": 60,
+                "date": "2012-01-31",
+                "type": "Loan",
+                "update_date": "2025-07-29 11:03:49"
+            }
+        ]
+    }
+}

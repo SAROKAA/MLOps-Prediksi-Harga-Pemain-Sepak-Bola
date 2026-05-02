@@ -1,0 +1,43 @@
+{
+    "team": "manchester_city",
+    "player_id": "25280",
+    "data": {
+        "status": "success",
+        "pagination": {
+            "total_count": 3,
+            "page_size": 120,
+            "page_count": 1,
+            "current_page": 1
+        },
+        "errors": null,
+        "response": [
+            {
+                "transfer_id": 169968,
+                "player_id": 25280,
+                "in_team_id": 56,
+                "out_team_id": 70,
+                "date": "2024-08-07",
+                "type": "N/A",
+                "update_date": "2025-06-02 08:19:08"
+            },
+            {
+                "transfer_id": 169969,
+                "player_id": 25280,
+                "in_team_id": 70,
+                "out_team_id": 1065,
+                "date": "2024-07-01",
+                "type": "N/A",
+                "update_date": "2025-06-02 08:19:08"
+            },
+            {
+                "transfer_id": 169970,
+                "player_id": 25280,
+                "in_team_id": 1065,
+                "out_team_id": 70,
+                "date": "2023-08-07",
+                "type": "Loan",
+                "update_date": "2025-06-02 08:19:08"
+            }
+        ]
+    }
+}

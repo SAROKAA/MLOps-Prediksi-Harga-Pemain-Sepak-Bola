@@ -1,0 +1,25 @@
+{
+    "team": "Arsenal",
+    "player_id": "68570",
+    "data": {
+        "status": "success",
+        "pagination": {
+            "total_count": 1,
+            "page_size": 120,
+            "page_count": 1,
+            "current_page": 1
+        },
+        "errors": null,
+        "response": [
+            {
+                "transfer_id": 1190949,
+                "player_id": 68570,
+                "in_team_id": 197,
+                "out_team_id": 69,
+                "date": "2025-08-05",
+                "type": "Free agent",
+                "update_date": "2026-04-27 01:18:43"
+            }
+        ]
+    }
+}

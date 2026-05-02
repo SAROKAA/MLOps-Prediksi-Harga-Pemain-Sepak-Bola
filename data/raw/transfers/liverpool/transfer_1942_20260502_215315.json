@@ -1,0 +1,34 @@
+{
+    "team": "liverpool",
+    "player_id": "1942",
+    "data": {
+        "status": "success",
+        "pagination": {
+            "total_count": 2,
+            "page_size": 120,
+            "page_count": 1,
+            "current_page": 1
+        },
+        "errors": null,
+        "response": [
+            {
+                "transfer_id": 143296,
+                "player_id": 1942,
+                "in_team_id": 65,
+                "out_team_id": 152,
+                "date": "2023-07-02",
+                "type": "\u20ac 70M",
+                "update_date": "2025-07-29 11:43:14"
+            },
+            {
+                "transfer_id": 143297,
+                "player_id": 1942,
+                "in_team_id": 152,
+                "out_team_id": 484,
+                "date": "2021-01-02",
+                "type": "\u20ac 20M",
+                "update_date": "2025-07-29 11:43:14"
+            }
+        ]
+    }
+}

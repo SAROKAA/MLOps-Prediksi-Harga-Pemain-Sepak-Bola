@@ -1,0 +1,70 @@
+{
+    "team": "manchester_city",
+    "player_id": "13078",
+    "data": {
+        "status": "success",
+        "pagination": {
+            "total_count": 6,
+            "page_size": 120,
+            "page_count": 1,
+            "current_page": 1
+        },
+        "errors": null,
+        "response": [
+            {
+                "transfer_id": 19632,
+                "player_id": 13078,
+                "in_team_id": 70,
+                "out_team_id": 116,
+                "date": "2024-07-18",
+                "type": "\u20ac 25M",
+                "update_date": "2025-07-29 11:42:37"
+            },
+            {
+                "transfer_id": 19633,
+                "player_id": 13078,
+                "in_team_id": 116,
+                "out_team_id": 451,
+                "date": "2024-07-01",
+                "type": "N/A",
+                "update_date": "2025-07-29 11:42:37"
+            },
+            {
+                "transfer_id": 19634,
+                "player_id": 13078,
+                "in_team_id": 451,
+                "out_team_id": 116,
+                "date": "2023-07-13",
+                "type": "Loan",
+                "update_date": "2025-07-29 11:42:37"
+            },
+            {
+                "transfer_id": 19635,
+                "player_id": 13078,
+                "in_team_id": 116,
+                "out_team_id": 179,
+                "date": "2023-07-01",
+                "type": "N/A",
+                "update_date": "2025-07-29 11:42:37"
+            },
+            {
+                "transfer_id": 19636,
+                "player_id": 13078,
+                "in_team_id": 179,
+                "out_team_id": 116,
+                "date": "2022-07-22",
+                "type": "Loan",
+                "update_date": "2025-07-29 11:42:37"
+            },
+            {
+                "transfer_id": 19637,
+                "player_id": 13078,
+                "in_team_id": 116,
+                "out_team_id": 4994,
+                "date": "2022-07-01",
+                "type": "\u20ac 6.5M",
+                "update_date": "2025-07-29 11:42:37"
+            }
+        ]
+    }
+}

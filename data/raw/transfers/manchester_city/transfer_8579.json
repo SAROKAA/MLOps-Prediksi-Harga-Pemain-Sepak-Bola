@@ -1,0 +1,115 @@
+{
+    "team": "manchester_city",
+    "player_id": "8579",
+    "data": {
+        "status": "success",
+        "pagination": {
+            "total_count": 11,
+            "page_size": 120,
+            "page_count": 1,
+            "current_page": 1
+        },
+        "errors": null,
+        "response": [
+            {
+                "transfer_id": 1619040,
+                "player_id": 8579,
+                "in_team_id": 440,
+                "out_team_id": 5739,
+                "date": "2026-01-12",
+                "type": "Loan",
+                "update_date": "2026-04-27 01:33:24"
+            },
+            {
+                "transfer_id": 170063,
+                "player_id": 8579,
+                "in_team_id": 5739,
+                "out_team_id": 70,
+                "date": "2024-08-27",
+                "type": "\u20ac 25M",
+                "update_date": "2025-07-29 14:00:07"
+            },
+            {
+                "transfer_id": 170064,
+                "player_id": 8579,
+                "in_team_id": 70,
+                "out_team_id": 440,
+                "date": "2024-07-01",
+                "type": "N/A",
+                "update_date": "2026-04-27 01:33:24"
+            },
+            {
+                "transfer_id": 170065,
+                "player_id": 8579,
+                "in_team_id": 440,
+                "out_team_id": 70,
+                "date": "2023-09-01",
+                "type": "Loan",
+                "update_date": "2026-04-27 01:33:24"
+            },
+            {
+                "transfer_id": 138254,
+                "player_id": 8579,
+                "in_team_id": 70,
+                "out_team_id": 135,
+                "date": "2023-07-01",
+                "type": "N/A",
+                "update_date": "2025-07-29 14:00:07"
+            },
+            {
+                "transfer_id": 138255,
+                "player_id": 8579,
+                "in_team_id": 135,
+                "out_team_id": 70,
+                "date": "2023-01-31",
+                "type": "Loan",
+                "update_date": "2025-07-29 14:00:07"
+            },
+            {
+                "transfer_id": 170066,
+                "player_id": 8579,
+                "in_team_id": 70,
+                "out_team_id": 416,
+                "date": "2019-08-07",
+                "type": "\u20ac 65M",
+                "update_date": "2025-07-29 14:00:07"
+            },
+            {
+                "transfer_id": 270975,
+                "player_id": 8579,
+                "in_team_id": 416,
+                "out_team_id": 446,
+                "date": "2018-07-01",
+                "type": "\u20ac 40.4M",
+                "update_date": "2025-07-29 14:00:07"
+            },
+            {
+                "transfer_id": 270976,
+                "player_id": 8579,
+                "in_team_id": 399,
+                "out_team_id": 446,
+                "date": "2017-08-22",
+                "type": "Loan",
+                "update_date": "2025-07-29 14:00:07"
+            },
+            {
+                "transfer_id": 260390,
+                "player_id": 8579,
+                "in_team_id": 446,
+                "out_team_id": 189,
+                "date": "2015-07-01",
+                "type": "\u20ac 15M",
+                "update_date": "2025-07-29 14:00:07"
+            },
+            {
+                "transfer_id": 260391,
+                "player_id": 8579,
+                "in_team_id": 446,
+                "out_team_id": 189,
+                "date": "2014-08-20",
+                "type": "Loan",
+                "update_date": "2025-07-29 14:00:07"
+            }
+        ]
+    }
+}

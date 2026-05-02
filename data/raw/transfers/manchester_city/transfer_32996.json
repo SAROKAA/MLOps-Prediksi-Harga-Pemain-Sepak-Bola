@@ -1,0 +1,70 @@
+{
+    "team": "manchester_city",
+    "player_id": "32996",
+    "data": {
+        "status": "success",
+        "pagination": {
+            "total_count": 6,
+            "page_size": 120,
+            "page_count": 1,
+            "current_page": 1
+        },
+        "errors": null,
+        "response": [
+            {
+                "transfer_id": 1670646,
+                "player_id": 32996,
+                "in_team_id": 451,
+                "out_team_id": 70,
+                "date": "2026-01-17",
+                "type": "Loan",
+                "update_date": "2026-04-27 01:33:59"
+            },
+            {
+                "transfer_id": 1504075,
+                "player_id": 32996,
+                "in_team_id": 70,
+                "out_team_id": 148,
+                "date": "2025-12-30",
+                "type": "Return from loan",
+                "update_date": "2026-04-27 00:52:20"
+            },
+            {
+                "transfer_id": 907578,
+                "player_id": 32996,
+                "in_team_id": 148,
+                "out_team_id": 70,
+                "date": "2025-08-21",
+                "type": "Loan",
+                "update_date": "2026-04-27 00:52:20"
+            },
+            {
+                "transfer_id": 169846,
+                "player_id": 32996,
+                "in_team_id": 70,
+                "out_team_id": 4990,
+                "date": "2025-01-01",
+                "type": "Back from Loan",
+                "update_date": "2025-11-10 00:17:38"
+            },
+            {
+                "transfer_id": 169844,
+                "player_id": 32996,
+                "in_team_id": 4990,
+                "out_team_id": 70,
+                "date": "2024-01-26",
+                "type": "Loan",
+                "update_date": "2025-11-10 00:17:38"
+            },
+            {
+                "transfer_id": 169845,
+                "player_id": 32996,
+                "in_team_id": 70,
+                "out_team_id": 4990,
+                "date": "2024-01-25",
+                "type": "\u20ac 14.5M",
+                "update_date": "2025-11-10 00:17:38"
+            }
+        ]
+    }
+}

@@ -1,0 +1,70 @@
+{
+    "team": "manchester_city",
+    "player_id": "9767",
+    "data": {
+        "status": "success",
+        "pagination": {
+            "total_count": 6,
+            "page_size": 120,
+            "page_count": 1,
+            "current_page": 1
+        },
+        "errors": null,
+        "response": [
+            {
+                "transfer_id": 1191082,
+                "player_id": 9767,
+                "in_team_id": 2491,
+                "out_team_id": 70,
+                "date": "2025-08-20",
+                "type": "Transfer",
+                "update_date": "2026-04-27 00:47:29"
+            },
+            {
+                "transfer_id": 169960,
+                "player_id": 9767,
+                "in_team_id": 70,
+                "out_team_id": 74,
+                "date": "2025-07-01",
+                "type": "N/A",
+                "update_date": "2025-07-11 02:40:47"
+            },
+            {
+                "transfer_id": 169959,
+                "player_id": 9767,
+                "in_team_id": 74,
+                "out_team_id": 70,
+                "date": "2024-08-06",
+                "type": "Loan",
+                "update_date": "2025-07-11 02:40:47"
+            },
+            {
+                "transfer_id": 166567,
+                "player_id": 9767,
+                "in_team_id": 52,
+                "out_team_id": 4530,
+                "date": "2023-07-14",
+                "type": "Loan",
+                "update_date": "2025-07-11 02:40:47"
+            },
+            {
+                "transfer_id": 191879,
+                "player_id": 9767,
+                "in_team_id": 1057,
+                "out_team_id": 8748,
+                "date": "2022-07-11",
+                "type": "Loan",
+                "update_date": "2026-04-27 07:06:23"
+            },
+            {
+                "transfer_id": 190817,
+                "player_id": 9767,
+                "in_team_id": 8748,
+                "out_team_id": 560,
+                "date": "2022-07-01",
+                "type": null,
+                "update_date": "2026-04-27 07:06:23"
+            }
+        ]
+    }
+}

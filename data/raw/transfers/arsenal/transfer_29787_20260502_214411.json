@@ -1,0 +1,25 @@
+{
+    "team": "Arsenal",
+    "player_id": "29787",
+    "data": {
+        "status": "success",
+        "pagination": {
+            "total_count": 1,
+            "page_size": 120,
+            "page_count": 1,
+            "current_page": 1
+        },
+        "errors": null,
+        "response": [
+            {
+                "transfer_id": 160300,
+                "player_id": 29787,
+                "in_team_id": 51,
+                "out_team_id": 69,
+                "date": "2025-02-01",
+                "type": "Transfer",
+                "update_date": "2025-11-10 00:17:39"
+            }
+        ]
+    }
+}

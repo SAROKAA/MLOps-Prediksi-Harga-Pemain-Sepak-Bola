@@ -1,0 +1,34 @@
+{
+    "team": "liverpool",
+    "player_id": "27392",
+    "data": {
+        "status": "success",
+        "pagination": {
+            "total_count": 2,
+            "page_size": 120,
+            "page_count": 1,
+            "current_page": 1
+        },
+        "errors": null,
+        "response": [
+            {
+                "transfer_id": 1617031,
+                "player_id": 27392,
+                "in_team_id": 65,
+                "out_team_id": 173,
+                "date": "2026-01-08",
+                "type": "Return from loan",
+                "update_date": "2026-04-27 01:12:09"
+            },
+            {
+                "transfer_id": 1187360,
+                "player_id": 27392,
+                "in_team_id": 173,
+                "out_team_id": 65,
+                "date": "2025-08-28",
+                "type": "Loan",
+                "update_date": "2026-04-27 01:12:09"
+            }
+        ]
+    }
+}

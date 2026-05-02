@@ -1,0 +1,25 @@
+{
+    "team": "manchester_city",
+    "player_id": "74252",
+    "data": {
+        "status": "success",
+        "pagination": {
+            "total_count": 1,
+            "page_size": 120,
+            "page_count": 1,
+            "current_page": 1
+        },
+        "errors": null,
+        "response": [
+            {
+                "transfer_id": 1191090,
+                "player_id": 74252,
+                "in_team_id": 92,
+                "out_team_id": 70,
+                "date": "2025-08-24",
+                "type": "Transfer",
+                "update_date": "2026-04-27 00:46:53"
+            }
+        ]
+    }
+}

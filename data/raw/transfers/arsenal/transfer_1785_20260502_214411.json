@@ -1,0 +1,25 @@
+{
+    "team": "Arsenal",
+    "player_id": "1785",
+    "data": {
+        "status": "success",
+        "pagination": {
+            "total_count": 1,
+            "page_size": 120,
+            "page_count": 1,
+            "current_page": 1
+        },
+        "errors": null,
+        "response": [
+            {
+                "transfer_id": 470789,
+                "player_id": 1785,
+                "in_team_id": 4521,
+                "out_team_id": 13790,
+                "date": "2019-07-02",
+                "type": null,
+                "update_date": "2019-12-02 04:33:04"
+            }
+        ]
+    }
+}

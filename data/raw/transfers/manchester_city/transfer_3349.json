@@ -1,0 +1,70 @@
+{
+    "team": "manchester_city",
+    "player_id": "3349",
+    "data": {
+        "status": "success",
+        "pagination": {
+            "total_count": 6,
+            "page_size": 120,
+            "page_count": 1,
+            "current_page": 1
+        },
+        "errors": null,
+        "response": [
+            {
+                "transfer_id": 983203,
+                "player_id": 3349,
+                "in_team_id": 737,
+                "out_team_id": 70,
+                "date": "2025-09-02",
+                "type": "Transfer",
+                "update_date": "2026-04-27 01:38:05"
+            },
+            {
+                "transfer_id": 169847,
+                "player_id": 3349,
+                "in_team_id": 70,
+                "out_team_id": 440,
+                "date": "2024-08-23",
+                "type": "Free",
+                "update_date": "2025-07-29 11:42:46"
+            },
+            {
+                "transfer_id": 169848,
+                "player_id": 3349,
+                "in_team_id": 440,
+                "out_team_id": 70,
+                "date": "2023-07-01",
+                "type": "Free",
+                "update_date": "2025-07-29 11:42:46"
+            },
+            {
+                "transfer_id": 140958,
+                "player_id": 3349,
+                "in_team_id": 70,
+                "out_team_id": 151,
+                "date": "2016-07-01",
+                "type": "\u20ac 27M",
+                "update_date": "2026-04-27 01:38:05"
+            },
+            {
+                "transfer_id": 131781,
+                "player_id": 3349,
+                "in_team_id": 151,
+                "out_team_id": 140,
+                "date": "2011-07-01",
+                "type": "\u20ac 4.5M",
+                "update_date": "2025-07-29 11:42:46"
+            },
+            {
+                "transfer_id": 131782,
+                "player_id": 3349,
+                "in_team_id": 140,
+                "out_team_id": 156,
+                "date": "2009-02-01",
+                "type": "\u20ac 50K",
+                "update_date": "2025-07-29 11:42:46"
+            }
+        ]
+    }
+}
